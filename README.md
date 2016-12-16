@@ -10,7 +10,7 @@ This project is based on the work of Sam Wang of the Princeton Election Consorti
 The results visualization is done with Bokeh using the Bokeh Server. You'll need to start the Bokeh server prior to running the presidentiual predicter software (from the command line, type 'bokeh serve').
 
 There are two main files:
-* PollGetter.py - this gets the data from the Huffington Post Pollster API.
+* PollGetter.py - this retrieves the poll data using the Huffington Post Pollster API.
 * PresidentialPredicter.py - the code that does all the work.
 
 To run the software:
