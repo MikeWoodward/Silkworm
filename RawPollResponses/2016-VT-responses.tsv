@@ -1,0 +1,105 @@
+response_text	pollster_label	value	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+Clinton	Clinton	61.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	454		Internet	Nonpartisan	None
+Trump	Trump	25.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	454		Internet	Nonpartisan	None
+Johnson	Other	6.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	454		Internet	Nonpartisan	None
+Stein	Other	6.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	454		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	454		Internet	Nonpartisan	None
+Clinton	Clinton	62.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	305		Internet	Nonpartisan	None
+Trump	Trump	33.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	305		Internet	Nonpartisan	None
+Other	Undecided	5.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	305		Internet	Nonpartisan	None
+Clinton	Clinton	60.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	447		Internet	Nonpartisan	None
+Trump	Trump	27.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	447		Internet	Nonpartisan	None
+Johnson	Other	6.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	447		Internet	Nonpartisan	None
+Stein	Other	5.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	447		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	447		Internet	Nonpartisan	None
+Clinton	Clinton	59.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	470		Internet	Nonpartisan	None
+Trump	Trump	25.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	470		Internet	Nonpartisan	None
+Johnson	Other	9.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	470		Internet	Nonpartisan	None
+Stein	Other	5.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	470		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	470		Internet	Nonpartisan	None
+Clinton	Clinton	57.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	449		Internet	Nonpartisan	None
+Trump	Trump	24.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	449		Internet	Nonpartisan	None
+Johnson	Other	10.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	449		Internet	Nonpartisan	None
+Stein	Other	7.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	449		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	449		Internet	Nonpartisan	None
+Clinton	Clinton	55.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	424		Internet	Nonpartisan	None
+Trump	Trump	24.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	424		Internet	Nonpartisan	None
+Johnson	Other	9.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	424		Internet	Nonpartisan	None
+Stein	Other	8.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	424		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	424		Internet	Nonpartisan	None
+Clinton	Clinton	54.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	428		Internet	Nonpartisan	None
+Trump	Trump	26.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	428		Internet	Nonpartisan	None
+Johnson	Other	8.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	428		Internet	Nonpartisan	None
+Stein	Other	7.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	428		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	428		Internet	Nonpartisan	None
+Clinton	Clinton	53.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	436		Internet	Nonpartisan	None
+Trump	Trump	25.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	436		Internet	Nonpartisan	None
+Johnson	Other	10.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	436		Internet	Nonpartisan	None
+Stein	Other	8.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	436		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	436		Internet	Nonpartisan	None
+Clinton	Clinton	51.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	422		Internet	Nonpartisan	None
+Trump	Trump	25.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	422		Internet	Nonpartisan	None
+Johnson	Other	9.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	422		Internet	Nonpartisan	None
+Stein	Other	10.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	422		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	422		Internet	Nonpartisan	None
+Clinton	Clinton	63.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	304		Internet	Nonpartisan	None
+Trump	Trump	34.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	304		Internet	Nonpartisan	None
+Other	Undecided	4.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	304		Internet	Nonpartisan	None
+Clinton	Clinton	53.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	479		Internet	Nonpartisan	None
+Trump	Trump	25.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	479		Internet	Nonpartisan	None
+Johnson	Other	9.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	479		Internet	Nonpartisan	None
+Stein	Other	9.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	479		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	479		Internet	Nonpartisan	None
+Clinton	Clinton	53.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	502		Internet	Nonpartisan	None
+Trump	Trump	24.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	502		Internet	Nonpartisan	None
+Johnson	Other	10.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	502		Internet	Nonpartisan	None
+Stein	Other	8.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	502		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	502		Internet	Nonpartisan	None
+Clinton	Clinton	54.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	446		Internet	Nonpartisan	None
+Trump	Trump	23.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	446		Internet	Nonpartisan	None
+Johnson	Other	11.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	446		Internet	Nonpartisan	None
+Stein	Other	9.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	446		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	446		Internet	Nonpartisan	None
+Clinton	Clinton	53.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	382		Internet	Nonpartisan	None
+Trump	Trump	24.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	382		Internet	Nonpartisan	None
+Johnson	Other	12.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	382		Internet	Nonpartisan	None
+Stein	Other	8.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	382		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	382		Internet	Nonpartisan	None
+Clinton	Clinton	63.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	305		Internet	Nonpartisan	None
+Trump	Trump	34.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	305		Internet	Nonpartisan	None
+Other	Undecided	4.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	305		Internet	Nonpartisan	None
+Clinton	Clinton	63.0	upi-cvoter-26333	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	304		Internet	Nonpartisan	None
+Trump	Trump	33.0	upi-cvoter-26333	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	304		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-26333	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	304		Internet	Nonpartisan	None
+Hillary Clinton	Clinton	45.0	castleton-university-vpr-26269	Castleton University/VPR	2016-09-29	2016-10-14	If the presidential election were held today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, Jill Stein of the Green Party, or for someone else?	Likely Voters	579		Live Phone	Nonpartisan	None
+Donald Trump	Trump	17.0	castleton-university-vpr-26269	Castleton University/VPR	2016-09-29	2016-10-14	If the presidential election were held today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, Jill Stein of the Green Party, or for someone else?	Likely Voters	579		Live Phone	Nonpartisan	None
+Gary Johnson	Other	4.0	castleton-university-vpr-26269	Castleton University/VPR	2016-09-29	2016-10-14	If the presidential election were held today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, Jill Stein of the Green Party, or for someone else?	Likely Voters	579		Live Phone	Nonpartisan	None
+Bernie Sanders	Other	4.0	castleton-university-vpr-26269	Castleton University/VPR	2016-09-29	2016-10-14	If the presidential election were held today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, Jill Stein of the Green Party, or for someone else?	Likely Voters	579		Live Phone	Nonpartisan	None
+Jill Stein	Other	3.0	castleton-university-vpr-26269	Castleton University/VPR	2016-09-29	2016-10-14	If the presidential election were held today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, Jill Stein of the Green Party, or for someone else?	Likely Voters	579		Live Phone	Nonpartisan	None
+Other	Other	13.0	castleton-university-vpr-26269	Castleton University/VPR	2016-09-29	2016-10-14	If the presidential election were held today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, Jill Stein of the Green Party, or for someone else?	Likely Voters	579		Live Phone	Nonpartisan	None
+Not sure	Undecided	10.0	castleton-university-vpr-26269	Castleton University/VPR	2016-09-29	2016-10-14	If the presidential election were held today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, Jill Stein of the Green Party, or for someone else?	Likely Voters	579		Live Phone	Nonpartisan	None
+Refused	Undecided	4.0	castleton-university-vpr-26269	Castleton University/VPR	2016-09-29	2016-10-14	If the presidential election were held today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, Jill Stein of the Green Party, or for someone else?	Likely Voters	579		Live Phone	Nonpartisan	None
+Clinton	Clinton	62.0	upi-cvoter-26071	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	316		Internet	Nonpartisan	None
+Trump	Trump	33.0	upi-cvoter-26071	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	316		Internet	Nonpartisan	None
+Other	Other	5.0	upi-cvoter-26071	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	316		Internet	Nonpartisan	None
+Clinton	Clinton	61.0	upi-cvoter-25942	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	464		Internet	Nonpartisan	None
+Trump	Trump	35.0	upi-cvoter-25942	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	464		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-25942	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	464		Internet	Nonpartisan	None
+Clinton	Clinton	60.0	upi-cvoter-25777	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	465		Internet	Nonpartisan	None
+Trump	Trump	36.0	upi-cvoter-25777	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	465		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-25777	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	465		Internet	Nonpartisan	None
+Hillary Clinton, the Democrat	Clinton	56.0	washpost-surveymonkey-25393	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	550		Internet	Nonpartisan	None
+Donald Trump, the Republican	Trump	28.0	washpost-surveymonkey-25393	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	550		Internet	Nonpartisan	None
+No Answer	Undecided	16.0	washpost-surveymonkey-25393	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	550		Internet	Nonpartisan	None
+Hillary Clinton, the Democrat	Clinton	45.0	washpost-surveymonkey-25393	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	550		Internet	Nonpartisan	None
+Donald Trump, the Republican	Trump	24.0	washpost-surveymonkey-25393	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	550		Internet	Nonpartisan	None
+Gary Johnson, the Libertarian	Other	11.0	washpost-surveymonkey-25393	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	550		Internet	Nonpartisan	None
+Jill Stein, the Green Party	Other	10.0	washpost-surveymonkey-25393	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	550		Internet	Nonpartisan	None
+No answer	Undecided	9.0	washpost-surveymonkey-25393	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	550		Internet	Nonpartisan	None
+Hillary Clinton	Clinton	39.0	castleton-university-vpr-24982	Castleton University/VPR	2016-07-11	2016-07-23	If the Presidential election were held today, and the candidates were Clinton (D), Trump (R), or Johnson (L), who would you vote for?	Likely Voters	637	3.9	Live Phone	Nonpartisan	None
+Donald Trump	Trump	17.0	castleton-university-vpr-24982	Castleton University/VPR	2016-07-11	2016-07-23	If the Presidential election were held today, and the candidates were Clinton (D), Trump (R), or Johnson (L), who would you vote for?	Likely Voters	637	3.9	Live Phone	Nonpartisan	None
+Gary Johnson	Other	5.0	castleton-university-vpr-24982	Castleton University/VPR	2016-07-11	2016-07-23	If the Presidential election were held today, and the candidates were Clinton (D), Trump (R), or Johnson (L), who would you vote for?	Likely Voters	637	3.9	Live Phone	Nonpartisan	None
+Jill Stein	Other	0.0	castleton-university-vpr-24982	Castleton University/VPR	2016-07-11	2016-07-23	If the Presidential election were held today, and the candidates were Clinton (D), Trump (R), or Johnson (L), who would you vote for?	Likely Voters	637	3.9	Live Phone	Nonpartisan	None
+Someone else	Other	26.0	castleton-university-vpr-24982	Castleton University/VPR	2016-07-11	2016-07-23	If the Presidential election were held today, and the candidates were Clinton (D), Trump (R), or Johnson (L), who would you vote for?	Likely Voters	637	3.9	Live Phone	Nonpartisan	None
+Not sure	Undecided	8.0	castleton-university-vpr-24982	Castleton University/VPR	2016-07-11	2016-07-23	If the Presidential election were held today, and the candidates were Clinton (D), Trump (R), or Johnson (L), who would you vote for?	Likely Voters	637	3.9	Live Phone	Nonpartisan	None
+Refused	Undecided	5.0	castleton-university-vpr-24982	Castleton University/VPR	2016-07-11	2016-07-23	If the Presidential election were held today, and the candidates were Clinton (D), Trump (R), or Johnson (L), who would you vote for?	Likely Voters	637	3.9	Live Phone	Nonpartisan	None

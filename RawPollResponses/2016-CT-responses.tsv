@@ -1,0 +1,130 @@
+response_text	pollster_label	value	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+Clinton	Clinton	52.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1387		Internet	Nonpartisan	None
+Trump	Trump	36.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1387		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1387		Internet	Nonpartisan	None
+Jill Stein	Other	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1387		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1387		Internet	Nonpartisan	None
+Clinton	Clinton	55.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	327		Internet	Nonpartisan	None
+Trump	Trump	40.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	327		Internet	Nonpartisan	None
+Other	Other	5.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	327		Internet	Nonpartisan	None
+Clinton	Clinton	51.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1173		Internet	Nonpartisan	None
+Trump	Trump	37.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1173		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1173		Internet	Nonpartisan	None
+Jill Stein	Other	3.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1173		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1173		Internet	Nonpartisan	None
+Clinton	Clinton	50.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	515		Internet	Nonpartisan	None
+Trump	Trump	40.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	515		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	10.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	515		Internet	Nonpartisan	None
+Clinton	Clinton	51.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1114		Internet	Nonpartisan	None
+Trump	Trump	37.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1114		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1114		Internet	Nonpartisan	None
+Jill Stein	Other	3.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1114		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1114		Internet	Nonpartisan	None
+Clinton	Clinton	52.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	925		Internet	Nonpartisan	None
+Trump	Trump	38.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	925		Internet	Nonpartisan	None
+Johnson	Other	6.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	925		Internet	Nonpartisan	None
+Jill Stein	Other	3.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	925		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	925		Internet	Nonpartisan	None
+Clinton	Clinton	49.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	516		Internet	Nonpartisan	None
+Trump	Trump	41.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	516		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	10.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	516		Internet	Nonpartisan	None
+Clinton	Clinton	52.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	753		Internet	Nonpartisan	None
+Trump	Trump	38.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	753		Internet	Nonpartisan	None
+Johnson	Other	6.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	753		Internet	Nonpartisan	None
+Jill Stein	Other	3.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	753		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	753		Internet	Nonpartisan	None
+Clinton	Clinton	51.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	616		Internet	Nonpartisan	None
+Trump	Trump	38.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	616		Internet	Nonpartisan	None
+Johnson	Other	6.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	616		Internet	Nonpartisan	None
+Jill Stein	Other	3.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	616		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	616		Internet	Nonpartisan	None
+Clinton	Clinton	51.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	554		Internet	Nonpartisan	None
+Trump	Trump	39.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	554		Internet	Nonpartisan	None
+Johnson	Other	5.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	554		Internet	Nonpartisan	None
+Jill Stein	Other	4.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	554		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	554		Internet	Nonpartisan	None
+Clinton	Clinton	51.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	488		Internet	Nonpartisan	None
+Trump	Trump	39.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	488		Internet	Nonpartisan	None
+Johnson	Other	4.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	488		Internet	Nonpartisan	None
+Jill Stein	Other	3.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	488		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	488		Internet	Nonpartisan	None
+Clinton	Clinton	54.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	326		Internet	Nonpartisan	None
+Trump	Trump	43.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	326		Internet	Nonpartisan	None
+Other	Other	3.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	326		Internet	Nonpartisan	None
+Clinton	Clinton	51.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	568		Internet	Nonpartisan	None
+Trump	Trump	38.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	568		Internet	Nonpartisan	None
+Johnson	Other	6.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	568		Internet	Nonpartisan	None
+Jill Stein	Other	3.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	568		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	568		Internet	Nonpartisan	None
+Clinton	Clinton	51.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	640		Internet	Nonpartisan	None
+Trump	Trump	36.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	640		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	13.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	640		Internet	Nonpartisan	None
+Clinton	Clinton	51.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	614		Internet	Nonpartisan	None
+Trump	Trump	36.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	614		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	614		Internet	Nonpartisan	None
+Jill Stein	Other	4.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	614		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	614		Internet	Nonpartisan	None
+Clinton	Clinton	50.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	515		Internet	Nonpartisan	None
+Trump	Trump	36.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	515		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	515		Internet	Nonpartisan	None
+Jill Stein	Other	4.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	515		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	515		Internet	Nonpartisan	None
+Clinton	Clinton	51.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	428		Internet	Nonpartisan	None
+Trump	Trump	36.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	428		Internet	Nonpartisan	None
+Johnson	Other	8.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	428		Internet	Nonpartisan	None
+Jill Stein	Other	4.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	428		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	428		Internet	Nonpartisan	None
+Clinton	Clinton	55.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	329		Internet	Nonpartisan	None
+Trump	Trump	42.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	329		Internet	Nonpartisan	None
+Other	Other	3.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	329		Internet	Nonpartisan	None
+Clinton	Clinton	53.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	647		Internet	Nonpartisan	None
+Trump	Trump	35.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	647		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	12.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	647		Internet	Nonpartisan	None
+Clinton	Clinton	55.0	upi-cvoter-26294	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	326		Internet	Nonpartisan	None
+Trump	Trump	42.0	upi-cvoter-26294	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	326		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-26294	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	326		Internet	Nonpartisan	None
+Clinton	Clinton	53.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	741		Internet	Nonpartisan	None
+Trump	Trump	36.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	741		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	11.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	741		Internet	Nonpartisan	None
+Clinton	Clinton	54.0	upi-cvoter-26028	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	331		Internet	Nonpartisan	None
+Trump	Trump	42.0	upi-cvoter-26028	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	331		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-26028	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	331		Internet	Nonpartisan	None
+Clinton	Clinton	53.0	ipsos-reuters-26102	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	506		Internet	Nonpartisan	None
+Trump	Trump	35.0	ipsos-reuters-26102	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	506		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	12.0	ipsos-reuters-26102	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	506		Internet	Nonpartisan	None
+Clinton	Clinton	54.0	upi-cvoter-25904	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	520		Internet	Nonpartisan	None
+Trump	Trump	43.0	upi-cvoter-25904	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	520		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-25904	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	520		Internet	Nonpartisan	None
+Clinton	Clinton	52.0	ipsos-reuters-25855	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	666		Internet	Nonpartisan	None
+Trump	Trump	34.0	ipsos-reuters-25855	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	666		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	14.0	ipsos-reuters-25855	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	666		Internet	Nonpartisan	None
+Clinton	Clinton	54.0	upi-cvoter-25733	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	512		Internet	Nonpartisan	None
+Trump	Trump	42.0	upi-cvoter-25733	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	512		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-25733	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	512		Internet	Nonpartisan	None
+Clinton	Clinton	47.0	ipsos-reuters-25684	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	662		Internet	Nonpartisan	None
+Trump	Trump	37.0	ipsos-reuters-25684	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	662		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	16.0	ipsos-reuters-25684	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	662		Internet	Nonpartisan	None
+Clinton	Clinton	47.0	ipsos-reuters-25542	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	674		Internet	Nonpartisan	None
+Trump	Trump	37.0	ipsos-reuters-25542	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	674		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	16.0	ipsos-reuters-25542	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	674		Internet	Nonpartisan	None
+Hillary Clinton, the Democrat	Clinton	51.0	washpost-surveymonkey-25360	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1053		Internet	Nonpartisan	None
+Donald Trump, the Republican	Trump	39.0	washpost-surveymonkey-25360	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1053		Internet	Nonpartisan	None
+No Answer	Undecided	10.0	washpost-surveymonkey-25360	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1053		Internet	Nonpartisan	None
+Hillary Clinton, the Democrat	Clinton	44.0	washpost-surveymonkey-25360	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1053		Internet	Nonpartisan	None
+Donald Trump, the Republican	Trump	33.0	washpost-surveymonkey-25360	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1053		Internet	Nonpartisan	None
+Gary Johnson, the Libertarian	Other	12.0	washpost-surveymonkey-25360	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1053		Internet	Nonpartisan	None
+Jill Stein, the Green Party	Other	5.0	washpost-surveymonkey-25360	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1053		Internet	Nonpartisan	None
+No answer	Undecided	6.0	washpost-surveymonkey-25360	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1053		Internet	Nonpartisan	None
+Clinton	Clinton	45.0	quinnipiac-24627	Quinnipiac	2016-06-01	2016-06-05		Registered Voters	1030	2.7	Live Phone	Nonpartisan	None
+Trump	Trump	38.0	quinnipiac-24627	Quinnipiac	2016-06-01	2016-06-05		Registered Voters	1030	2.7	Live Phone	Nonpartisan	None
+Other	Other	3.0	quinnipiac-24627	Quinnipiac	2016-06-01	2016-06-05		Registered Voters	1030	2.7	Live Phone	Nonpartisan	None
+Undecided	Undecided	6.0	quinnipiac-24627	Quinnipiac	2016-06-01	2016-06-05		Registered Voters	1030	2.7	Live Phone	Nonpartisan	None
+Wouldn't Vote	Undecided	8.0	quinnipiac-24627	Quinnipiac	2016-06-01	2016-06-05		Registered Voters	1030	2.7	Live Phone	Nonpartisan	None
+Clinton	Clinton	48.0	emerson-college-polling-society-24256	Emerson College Polling Society	2016-04-10	2016-04-11		Likely Voters	1043	3.0	Automated Phone	Nonpartisan	None
+Trump	Trump	40.0	emerson-college-polling-society-24256	Emerson College Polling Society	2016-04-10	2016-04-11		Likely Voters	1043	3.0	Automated Phone	Nonpartisan	None
+Undecided	Undecided	12.0	emerson-college-polling-society-24256	Emerson College Polling Society	2016-04-10	2016-04-11		Likely Voters	1043	3.0	Automated Phone	Nonpartisan	None
+Clinton	Clinton	47.0	quinnipiac-22907	Quinnipiac	2015-10-07	2015-10-11		Registered Voters	1735	2.4	Live Phone	Nonpartisan	None
+Other	Other	2.0	quinnipiac-22907	Quinnipiac	2015-10-07	2015-10-11		Registered Voters	1735	2.4	Live Phone	Nonpartisan	None
+Trump	Trump	40.0	quinnipiac-22907	Quinnipiac	2015-10-07	2015-10-11		Registered Voters	1735	2.4	Live Phone	Nonpartisan	None
+Undecided	Undecided	5.0	quinnipiac-22907	Quinnipiac	2015-10-07	2015-10-11		Registered Voters	1735	2.4	Live Phone	Nonpartisan	None
+Wouldn't Vote	Undecided	6.0	quinnipiac-22907	Quinnipiac	2015-10-07	2015-10-11		Registered Voters	1735	2.4	Live Phone	Nonpartisan	None

@@ -3,6 +3,17 @@
 Created on Thu Apr 14 21:48:22 2016
 
 @author: mwoodward
+
+Makes a forecast for who will win the US Presidential Election based on
+state polling data.
+
+To get the data:
+    1. Run GetPollResponses - this retrieves the data from the Huffington Post
+    Pollster API
+    2. Run NormalizeResponses - this prepares the poll data for this program
+    3. From the command line, run 'bokeh serve'
+    4. Now, run this file
+
 """
 
 # =============================================================================
@@ -17,7 +28,6 @@ from bokeh.models.widgets import (CheckboxGroup, DataTable, Div,
                                   TableColumn, Tabs)
 from bokeh.plotting import figure
 import datetime
-import glob
 from math import erf, sqrt
 import numpy as np
 import os.path
@@ -167,20 +177,11 @@ class Polls(object):
 
     def __init__(self):
 
-        # Read in all the polls files in the folder
-
-        files = glob.glob(os.path.join('Input', 'OpinionPolls*.csv'))
-
-        list_ = []
-        for o_file in files:
-            df = pd.read_csv(o_file,
-                             parse_dates=['Election date',
-                                          'Poll start date',
-                                          'Poll end date'],
-                             infer_datetime_format=True)
-            list_.append(df)
-
-        self.polls = pd.concat(list_)
+        self.polls = pd.read_csv(os.path.join('NormalizedPollResponses',
+                                              'NormalizedPollResponses.csv'),
+                                 parse_dates=['Election date',
+                                              'Poll start date',
+                                              'Poll end date'])
 
         self.polls.sort_values(['Election date', 'State', 'Poll end date'],
                                ascending=[True, True, True],
@@ -210,13 +211,7 @@ class Polls(object):
                                 self.polls['Rep share'])
 
         # Remove fields we're not using
-        self.polls.drop(['Source',
-                         'Partisan',
-                         'Pollster',
-                         'Sponsors',
-                         'Method',
-                         'Population type',
-                         'Total'],
+        self.polls.drop(['Total'],
                         axis=1, inplace=True)
 
     def select(self, election):
@@ -507,7 +502,7 @@ class CollegeDistribution(object):
 
     def calc_dist(self):
 
-        """Calculate the distribution"""
+        """Calculate the electoral college vote distribution"""
 
         # Create a merged array that contains the daily data and the
         # allocations
@@ -571,6 +566,8 @@ class CollegeDistribution(object):
 # Display
 # =============================================================================
 class Display(object):
+
+    """Class that displays the results - uses Bokeh."""
 
     def __init__(self, current, previous, polls, states, college,
                  current_allocations):
