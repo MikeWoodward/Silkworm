@@ -24,7 +24,7 @@ There are three main files:
 To run the software:
 * Run GetPollResponses to get the opinion poll data.
 * Run NormalizeResponses to normalize the data (you'll need to create a NormalizedPollResponses folder).
-* Start the bokeh server from teh command line ('bokeh serve').
+* Start the bokeh server from the command line ('bokeh serve').
 * Run the PresidentialPredicter to make a forecast.
 
 This software works well for predicting the 2012 election, but like all similar models, it fails with the 2016 election.
