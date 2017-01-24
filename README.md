@@ -2,7 +2,7 @@
 
 This software takes state level opinion polls data and forecasts who will win the US presidential election.
 
-The data comes from the Huffington Post Pollster API (http://elections.huffingtonpost.com/pollster/api). I use the new (v2) version of the API in the current Github release. 
+The data comes from the Huffington Post Pollster API (http://elections.huffingtonpost.com/pollster/api). I use the new (v2) version of the API in my current Github release. 
 
 The software is based on the work of Sam Wang of the Princeton Election Consortium (http://election.princeton.edu/). I took his MATLAB code and made a series of modifications:
 * I only use opinion polls if there are more than 10 polls reported in the state, less than 10 polls and I use the previous election result (I found this experimentally to be more reliable)
