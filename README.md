@@ -11,7 +11,7 @@ The software is based on the work of Sam Wang of the Princeton Election Consorti
 
 The software uses the following libraries:
 * Pandas - used extensively.
-* Bokeh - used for vialulization.
+* Bokeh - used for visualization.
 * Requests - used to retrieve data from the Huffington Post API.
 
 The results visualization is done with Bokeh using the Bokeh Server. You'll need to start the Bokeh server prior to running the presidential predicter software (from the command line, type 'bokeh serve').
