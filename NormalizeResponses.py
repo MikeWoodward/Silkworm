@@ -4,11 +4,23 @@
 Created on Sun Jan 22 17:54:57 2017
 
 @author: mikewoodward
+
+Normalizes the poll responses and prepares them for use by the Presidential
+Predicter.
+
+For details of licensing etc, see the Github page:
+    https://github.com/MikeWoodward/PresidentialPredictor
+
 """
 
+
+# =============================================================================
+# Imports
+# =============================================================================
 import os.path
 from os import listdir
 import pandas as pd
+
 
 # =============================================================================
 # Main
@@ -17,7 +29,8 @@ if __name__ == '__main__':
 
     election = {'2008': u'2008-11-04',
                 '2012': u'2012-11-06',
-                '2016': u'2016-11-08'}
+                '2016': u'2016-11-08',
+                '2020': u'2020-11-03'}
 
     raw_dir = 'RawPollResponses'
     normal_dir = 'NormalizedPollResponses'

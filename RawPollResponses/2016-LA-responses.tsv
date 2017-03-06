@@ -1,0 +1,166 @@
+response_text	pollster_label	value	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+Clinton	Clinton	38.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	982		Internet	Nonpartisan	None
+Trump	Trump	52.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	982		Internet	Nonpartisan	None
+Johnson	Other	4.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	982		Internet	Nonpartisan	None
+Stein	Other	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	982		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	982		Internet	Nonpartisan	None
+Clinton	Clinton	40.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	329		Internet	Nonpartisan	None
+Trump	Trump	55.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	329		Internet	Nonpartisan	None
+Other	Other	5.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	329		Internet	Nonpartisan	None
+Clinton	Clinton	38.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	840		Internet	Nonpartisan	None
+Trump	Trump	52.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	840		Internet	Nonpartisan	None
+Johnson	Other	4.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	840		Internet	Nonpartisan	None
+Stein	Other	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	840		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	840		Internet	Nonpartisan	None
+Clinton	Clinton	36.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	633		Internet	Nonpartisan	None
+Trump	Trump	52.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	633		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	12.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	633		Internet	Nonpartisan	None
+Clinton	Clinton	38.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	778		Internet	Nonpartisan	None
+Trump	Trump	52.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	778		Internet	Nonpartisan	None
+Johnson	Other	4.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	778		Internet	Nonpartisan	None
+Stein	Other	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	778		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	778		Internet	Nonpartisan	None
+Clinton	Clinton	37.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	646		Internet	Nonpartisan	None
+Trump	Trump	52.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	646		Internet	Nonpartisan	None
+Johnson	Other	5.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	646		Internet	Nonpartisan	None
+Stein	Other	2.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	646		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	646		Internet	Nonpartisan	None
+Clinton	Clinton	36.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	618		Internet	Nonpartisan	None
+Trump	Trump	53.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	618		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	11.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	618		Internet	Nonpartisan	None
+Clinton	Clinton	37.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	546		Internet	Nonpartisan	None
+Trump	Trump	51.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	546		Internet	Nonpartisan	None
+Johnson	Other	6.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	546		Internet	Nonpartisan	None
+Stein	Other	2.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	546		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	546		Internet	Nonpartisan	None
+Clinton	Clinton	37.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	470		Internet	Nonpartisan	None
+Trump	Trump	51.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	470		Internet	Nonpartisan	None
+Johnson	Other	6.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	470		Internet	Nonpartisan	None
+Stein	Other	2.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	470		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	470		Internet	Nonpartisan	None
+Clinton	Clinton	38.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	423		Internet	Nonpartisan	None
+Trump	Trump	51.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	423		Internet	Nonpartisan	None
+Johnson	Other	5.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	423		Internet	Nonpartisan	None
+Stein	Other	2.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	423		Internet	Nonpartisan	None
+No answer	Undecided	4.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	423		Internet	Nonpartisan	None
+Clinton	Clinton	36.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	320		Internet	Nonpartisan	None
+Trump	Trump	54.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	320		Internet	Nonpartisan	None
+Johnson	Other	5.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	320		Internet	Nonpartisan	None
+Stein	Other	1.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	320		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	320		Internet	Nonpartisan	None
+Clinton	Clinton	40.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	316		Internet	Nonpartisan	None
+Trump	Trump	56.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	316		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	316		Internet	Nonpartisan	None
+Clinton	Clinton	37.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	418		Internet	Nonpartisan	None
+Trump	Trump	54.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	418		Internet	Nonpartisan	None
+Johnson	Other	5.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	418		Internet	Nonpartisan	None
+Stein	Other	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	418		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	418		Internet	Nonpartisan	None
+Clinton	Clinton	34.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	934		Internet	Nonpartisan	None
+Trump	Trump	53.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	934		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	13.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	934		Internet	Nonpartisan	None
+Clinton	Clinton	38.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	435		Internet	Nonpartisan	None
+Trump	Trump	53.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	435		Internet	Nonpartisan	None
+Johnson	Other	4.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	435		Internet	Nonpartisan	None
+Stein	Other	3.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	435		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	435		Internet	Nonpartisan	None
+Clinton	Clinton	38.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	388		Internet	Nonpartisan	None
+Trump	Trump	53.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	388		Internet	Nonpartisan	None
+Johnson	Other	5.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	388		Internet	Nonpartisan	None
+Stein	Other	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	388		Internet	Nonpartisan	None
+No answer	Undecided	1.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	388		Internet	Nonpartisan	None
+Clinton	Clinton	39.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	324		Internet	Nonpartisan	None
+Trump	Trump	51.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	324		Internet	Nonpartisan	None
+Johnson	Other	6.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	324		Internet	Nonpartisan	None
+Stein	Other	3.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	324		Internet	Nonpartisan	None
+No answer	Undecided	1.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	324		Internet	Nonpartisan	None
+Clinton	Clinton	41.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	317		Internet	Nonpartisan	None
+Trump	Trump	55.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	317		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	317		Internet	Nonpartisan	None
+Donald Trump	Trump	50.0	southern-media-opinion-research-26486	Southern Media/Opinion Research	2016-10-19	2016-10-21		Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+Hillary Clinton	Clinton	35.0	southern-media-opinion-research-26486	Southern Media/Opinion Research	2016-10-19	2016-10-21		Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+Gary Johnson	Other	5.0	southern-media-opinion-research-26486	Southern Media/Opinion Research	2016-10-19	2016-10-21		Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+Another candidate (vol.)	Other	2.0	southern-media-opinion-research-26486	Southern Media/Opinion Research	2016-10-19	2016-10-21		Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+DNK/WS (vol.)	Undecided	8.0	southern-media-opinion-research-26486	Southern Media/Opinion Research	2016-10-19	2016-10-21		Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+Donald Trump	Trump	43.0	lucid-the-times-picayune-26616	Lucid/The Times-Picayune	2016-10-15	2016-10-21		Likely Voters	614		Internet	Nonpartisan	None
+Hillary Clinton	Clinton	40.0	lucid-the-times-picayune-26616	Lucid/The Times-Picayune	2016-10-15	2016-10-21		Likely Voters	614		Internet	Nonpartisan	None
+Gary Johnson	Other	6.0	lucid-the-times-picayune-26616	Lucid/The Times-Picayune	2016-10-15	2016-10-21		Likely Voters	614		Internet	Nonpartisan	None
+Jill Stein	Other	4.0	lucid-the-times-picayune-26616	Lucid/The Times-Picayune	2016-10-15	2016-10-21		Likely Voters	614		Internet	Nonpartisan	None
+Undecided	Undecided	7.0	lucid-the-times-picayune-26616	Lucid/The Times-Picayune	2016-10-15	2016-10-21		Likely Voters	614		Internet	Nonpartisan	None
+Trump (R)	Trump	49.0	university-of-new-orleans-26522	University of New Orleans 	2016-10-15	2016-10-21		Likely Voters	603	4.0	Live Phone	Nonpartisan	None
+Clinton (D)	Clinton	35.0	university-of-new-orleans-26522	University of New Orleans 	2016-10-15	2016-10-21		Likely Voters	603	4.0	Live Phone	Nonpartisan	None
+Johnson (L)	Other	7.0	university-of-new-orleans-26522	University of New Orleans 	2016-10-15	2016-10-21		Likely Voters	603	4.0	Live Phone	Nonpartisan	None
+Stein (G)	Other	2.0	university-of-new-orleans-26522	University of New Orleans 	2016-10-15	2016-10-21		Likely Voters	603	4.0	Live Phone	Nonpartisan	None
+Other	Other	1.0	university-of-new-orleans-26522	University of New Orleans 	2016-10-15	2016-10-21		Likely Voters	603	4.0	Live Phone	Nonpartisan	None
+DK	Undecided	6.0	university-of-new-orleans-26522	University of New Orleans 	2016-10-15	2016-10-21		Likely Voters	603	4.0	Live Phone	Nonpartisan	None
+Clinton	Clinton	35.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	612		Internet	Nonpartisan	None
+Trump	Trump	51.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	612		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	14.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	612		Internet	Nonpartisan	None
+Donald Trump	Trump	54.0	mason-dixon-fox-8-raycom-26371	Mason-Dixon/FOX 8/Raycom	2016-10-17	2016-10-19		Likely Voters	625	4.0	Live Phone	Nonpartisan	None
+Hillary Clinton	Clinton	34.0	mason-dixon-fox-8-raycom-26371	Mason-Dixon/FOX 8/Raycom	2016-10-17	2016-10-19		Likely Voters	625	4.0	Live Phone	Nonpartisan	None
+Gary Johnson	Other	2.0	mason-dixon-fox-8-raycom-26371	Mason-Dixon/FOX 8/Raycom	2016-10-17	2016-10-19		Likely Voters	625	4.0	Live Phone	Nonpartisan	None
+Jill Stein	Other	1.0	mason-dixon-fox-8-raycom-26371	Mason-Dixon/FOX 8/Raycom	2016-10-17	2016-10-19		Likely Voters	625	4.0	Live Phone	Nonpartisan	None
+Undecided	Undecided	9.0	mason-dixon-fox-8-raycom-26371	Mason-Dixon/FOX 8/Raycom	2016-10-17	2016-10-19		Likely Voters	625	4.0	Live Phone	Nonpartisan	None
+Trump	Trump	55.0	upi-cvoter-26305	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	314		Internet	Nonpartisan	None
+Clinton	Clinton	41.0	upi-cvoter-26305	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	314		Internet	Nonpartisan	None
+Other	Other	5.0	upi-cvoter-26305	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	314		Internet	Nonpartisan	None
+Trump	Trump	45.0	jmc-analytics-r-fleming-26208	JMC Analytics (R-Fleming)	2016-10-11	2016-10-15	If the race for President were held today between Donald Trump and Hillary Clinton, which candidate would you support?	Likely Voters	800	3.5	IVR/Live Phone	Sponsor	Rep
+Clinton	Clinton	38.0	jmc-analytics-r-fleming-26208	JMC Analytics (R-Fleming)	2016-10-11	2016-10-15	If the race for President were held today between Donald Trump and Hillary Clinton, which candidate would you support?	Likely Voters	800	3.5	IVR/Live Phone	Sponsor	Rep
+Johnson	Other	4.0	jmc-analytics-r-fleming-26208	JMC Analytics (R-Fleming)	2016-10-11	2016-10-15	If the race for President were held today between Donald Trump and Hillary Clinton, which candidate would you support?	Likely Voters	800	3.5	IVR/Live Phone	Sponsor	Rep
+Stein	Other	1.0	jmc-analytics-r-fleming-26208	JMC Analytics (R-Fleming)	2016-10-11	2016-10-15	If the race for President were held today between Donald Trump and Hillary Clinton, which candidate would you support?	Likely Voters	800	3.5	IVR/Live Phone	Sponsor	Rep
+Undecided	Undecided	12.0	jmc-analytics-r-fleming-26208	JMC Analytics (R-Fleming)	2016-10-11	2016-10-15	If the race for President were held today between Donald Trump and Hillary Clinton, which candidate would you support?	Likely Voters	800	3.5	IVR/Live Phone	Sponsor	Rep
+Clinton	Clinton	36.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	644		Internet	Nonpartisan	None
+Trump	Trump	49.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	644		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	15.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	644		Internet	Nonpartisan	None
+Trump	Trump	55.0	upi-cvoter-26039	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	320		Internet	Nonpartisan	None
+Clinton	Clinton	40.0	upi-cvoter-26039	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	320		Internet	Nonpartisan	None
+Other	Other	5.0	upi-cvoter-26039	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	320		Internet	Nonpartisan	None
+Trump	Trump	51.0	ipsos-reuters-26111	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	631		Internet	Nonpartisan	None
+Clinton	Clinton	36.0	ipsos-reuters-26111	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	631		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	13.0	ipsos-reuters-26111	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	631		Internet	Nonpartisan	None
+Trump	Trump	57.0	upi-cvoter-25915	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	531		Internet	Nonpartisan	None
+Clinton	Clinton	39.0	upi-cvoter-25915	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	531		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-25915	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	531		Internet	Nonpartisan	None
+Trump	Trump	50.0	ipsos-reuters-25864	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	585		Internet	Nonpartisan	None
+Clinton	Clinton	38.0	ipsos-reuters-25864	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	585		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	12.0	ipsos-reuters-25864	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	585		Internet	Nonpartisan	None
+Trump	Trump	56.0	upi-cvoter-25746	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	533		Internet	Nonpartisan	None
+Clinton	Clinton	39.0	upi-cvoter-25746	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	533		Internet	Nonpartisan	None
+Other	Other	5.0	upi-cvoter-25746	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	533		Internet	Nonpartisan	None
+Trump	Trump	45.0	jmc-analytics-r-25682	JMC Analytics (R)	2016-09-22	2016-09-24		Likely Voters	905	3.3	IVR/Live Phone	Pollster	Rep
+Clinton	Clinton	35.0	jmc-analytics-r-25682	JMC Analytics (R)	2016-09-22	2016-09-24		Likely Voters	905	3.3	IVR/Live Phone	Pollster	Rep
+Johnson	Other	6.0	jmc-analytics-r-25682	JMC Analytics (R)	2016-09-22	2016-09-24		Likely Voters	905	3.3	IVR/Live Phone	Pollster	Rep
+Stein	Other	2.0	jmc-analytics-r-25682	JMC Analytics (R)	2016-09-22	2016-09-24		Likely Voters	905	3.3	IVR/Live Phone	Pollster	Rep
+Undecided	Undecided	13.0	jmc-analytics-r-25682	JMC Analytics (R)	2016-09-22	2016-09-24		Likely Voters	905	3.3	IVR/Live Phone	Pollster	Rep
+Trump	Trump	52.0	ipsos-reuters-25701	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	506		Internet	Nonpartisan	None
+Clinton	Clinton	36.0	ipsos-reuters-25701	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	506		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	12.0	ipsos-reuters-25701	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	506		Internet	Nonpartisan	None
+Donald Trump	Trump	49.0	southern-media-opinion-research-25605	Southern Media/Opinion Research	2016-09-15	2016-09-17		Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+Hillary Clinton	Clinton	33.0	southern-media-opinion-research-25605	Southern Media/Opinion Research	2016-09-15	2016-09-17		Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+Gary Johnson	Other	8.0	southern-media-opinion-research-25605	Southern Media/Opinion Research	2016-09-15	2016-09-17		Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+DNK/WS (vol.)	Undecided	11.0	southern-media-opinion-research-25605	Southern Media/Opinion Research	2016-09-15	2016-09-17		Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+Trump	Trump	54.0	ipsos-reuters-25551	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	511		Internet	Nonpartisan	None
+Clinton	Clinton	34.0	ipsos-reuters-25551	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	511		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	12.0	ipsos-reuters-25551	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	511		Internet	Nonpartisan	None
+Donald Trump	Trump	46.0	anzalone-d-democrats-for-education-reform-25438	Anzalone (D-Democrats For Education Reform)	2016-08-29	2016-09-01	If this year's election for President were held today, for whom would you vote-- Hillary Clinton, a Democrat, or Donald Trump, a Republican?	Likely Voters	605	4.0	Live Phone	Sponsor	Dem
+Hillary Clinton	Clinton	40.0	anzalone-d-democrats-for-education-reform-25438	Anzalone (D-Democrats For Education Reform)	2016-08-29	2016-09-01	If this year's election for President were held today, for whom would you vote-- Hillary Clinton, a Democrat, or Donald Trump, a Republican?	Likely Voters	605	4.0	Live Phone	Sponsor	Dem
+(VOL) Gary Johnson, Libertarian	Other	3.0	anzalone-d-democrats-for-education-reform-25438	Anzalone (D-Democrats For Education Reform)	2016-08-29	2016-09-01	If this year's election for President were held today, for whom would you vote-- Hillary Clinton, a Democrat, or Donald Trump, a Republican?	Likely Voters	605	4.0	Live Phone	Sponsor	Dem
+(VOL) Jill Stein, Green Party	Other	0.0	anzalone-d-democrats-for-education-reform-25438	Anzalone (D-Democrats For Education Reform)	2016-08-29	2016-09-01	If this year's election for President were held today, for whom would you vote-- Hillary Clinton, a Democrat, or Donald Trump, a Republican?	Likely Voters	605	4.0	Live Phone	Sponsor	Dem
+(VOL) Other	Other	1.0	anzalone-d-democrats-for-education-reform-25438	Anzalone (D-Democrats For Education Reform)	2016-08-29	2016-09-01	If this year's election for President were held today, for whom would you vote-- Hillary Clinton, a Democrat, or Donald Trump, a Republican?	Likely Voters	605	4.0	Live Phone	Sponsor	Dem
+(VOL) Neither	Other	4.0	anzalone-d-democrats-for-education-reform-25438	Anzalone (D-Democrats For Education Reform)	2016-08-29	2016-09-01	If this year's election for President were held today, for whom would you vote-- Hillary Clinton, a Democrat, or Donald Trump, a Republican?	Likely Voters	605	4.0	Live Phone	Sponsor	Dem
+(VOL) Wouldn't vote	Undecided	0.0	anzalone-d-democrats-for-education-reform-25438	Anzalone (D-Democrats For Education Reform)	2016-08-29	2016-09-01	If this year's election for President were held today, for whom would you vote-- Hillary Clinton, a Democrat, or Donald Trump, a Republican?	Likely Voters	605	4.0	Live Phone	Sponsor	Dem
+(VOL) Undecided	Undecided	6.0	anzalone-d-democrats-for-education-reform-25438	Anzalone (D-Democrats For Education Reform)	2016-08-29	2016-09-01	If this year's election for President were held today, for whom would you vote-- Hillary Clinton, a Democrat, or Donald Trump, a Republican?	Likely Voters	605	4.0	Live Phone	Sponsor	Dem
+Donald Trump, the Republican	Trump	53.0	washpost-surveymonkey-25369	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	871		Internet	Nonpartisan	None
+Hillary Clinton, the Democrat	Clinton	38.0	washpost-surveymonkey-25369	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	871		Internet	Nonpartisan	None
+No Answer	Undecided	8.0	washpost-surveymonkey-25369	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	871		Internet	Nonpartisan	None
+Donald Trump, the Republican	Trump	49.0	washpost-surveymonkey-25369	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	871		Internet	Nonpartisan	None
+Hillary Clinton, the Democrat	Clinton	33.0	washpost-surveymonkey-25369	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	871		Internet	Nonpartisan	None
+Gary Johnson, the Libertarian	Other	9.0	washpost-surveymonkey-25369	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	871		Internet	Nonpartisan	None
+Jill Stein, the Green Party	Other	3.0	washpost-surveymonkey-25369	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	871		Internet	Nonpartisan	None
+No answer	Undecided	6.0	washpost-surveymonkey-25369	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	871		Internet	Nonpartisan	None
+Clinton	Clinton	36.0	jmc-analytics-r-24470	JMC Analytics (R)	2016-05-05	2016-05-06		Likely Voters	624	3.9	Automated Phone	Pollster	Rep
+Other	Other	4.0	jmc-analytics-r-24470	JMC Analytics (R)	2016-05-05	2016-05-06		Likely Voters	624	3.9	Automated Phone	Pollster	Rep
+Trump	Trump	52.0	jmc-analytics-r-24470	JMC Analytics (R)	2016-05-05	2016-05-06		Likely Voters	624	3.9	Automated Phone	Pollster	Rep
+Undecided	Undecided	8.0	jmc-analytics-r-24470	JMC Analytics (R)	2016-05-05	2016-05-06		Likely Voters	624	3.9	Automated Phone	Pollster	Rep
+Clinton	Clinton	39.0	clarus-wwl-tv-the-advocate-22846	Clarus/WWL-TV/The Advocate	2015-09-20	2015-09-23		Likely Voters	800	3.46	Live Phone	Nonpartisan	None
+Trump	Trump	47.0	clarus-wwl-tv-the-advocate-22846	Clarus/WWL-TV/The Advocate	2015-09-20	2015-09-23		Likely Voters	800	3.46	Live Phone	Nonpartisan	None

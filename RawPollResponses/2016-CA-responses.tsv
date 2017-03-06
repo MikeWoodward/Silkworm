@@ -1,0 +1,269 @@
+response_text	pollster_label	value	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+Clinton	Clinton	56.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	2712		Internet	Nonpartisan	None
+Trump	Trump	31.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	2712		Internet	Nonpartisan	None
+Johnson	Other	6.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	2712		Internet	Nonpartisan	None
+Jill Stein	Other	5.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	2712		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	2712		Internet	Nonpartisan	None
+Hillary Clinton (D)	Clinton	54.0	insights-west-26815	Insights West	2016-11-04	2016-11-06	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	401	4.9	Internet	Nonpartisan	None
+Donald Trump (R)	Trump	32.0	insights-west-26815	Insights West	2016-11-04	2016-11-06	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	401	4.9	Internet	Nonpartisan	None
+Gary Johnson (L)	Other	3.0	insights-west-26815	Insights West	2016-11-04	2016-11-06	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	401	4.9	Internet	Nonpartisan	None
+Jill Stein (G)	Other	2.0	insights-west-26815	Insights West	2016-11-04	2016-11-06	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	401	4.9	Internet	Nonpartisan	None
+Some other candidate	Other	2.0	insights-west-26815	Insights West	2016-11-04	2016-11-06	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	401	4.9	Internet	Nonpartisan	None
+Undecided	Undecided	7.0	insights-west-26815	Insights West	2016-11-04	2016-11-06	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	401	4.9	Internet	Nonpartisan	None
+Clinton	Clinton	58.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	507		Internet	Nonpartisan	None
+Trump	Trump	37.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	507		Internet	Nonpartisan	None
+Other	Other	5.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	507		Internet	Nonpartisan	None
+Clinton	Clinton	56.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	2655		Internet	Nonpartisan	None
+Trump	Trump	30.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	2655		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	2655		Internet	Nonpartisan	None
+Jill Stein	Other	4.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	2655		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	2655		Internet	Nonpartisan	None
+Clinton	Clinton	59.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	1393		Internet	Nonpartisan	None
+Trump	Trump	32.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	1393		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	9.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	1393		Internet	Nonpartisan	None
+Clinton	Clinton	56.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	2691		Internet	Nonpartisan	None
+Trump	Trump	30.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	2691		Internet	Nonpartisan	None
+Johnson	Other	6.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	2691		Internet	Nonpartisan	None
+Jill Stein	Other	5.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	2691		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	2691		Internet	Nonpartisan	None
+Clinton	Clinton	56.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	2528		Internet	Nonpartisan	None
+Trump	Trump	29.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	2528		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	2528		Internet	Nonpartisan	None
+Jill Stein	Other	5.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	2528		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	2528		Internet	Nonpartisan	None
+Clinton	Clinton	60.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	1524		Internet	Nonpartisan	None
+Trump	Trump	30.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	1524		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	10.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	1524		Internet	Nonpartisan	None
+Clinton	Clinton	56.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	2316		Internet	Nonpartisan	None
+Trump	Trump	29.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	2316		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	2316		Internet	Nonpartisan	None
+Jill Stein	Other	5.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	2316		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	2316		Internet	Nonpartisan	None
+Clinton	Clinton	55.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	2284		Internet	Nonpartisan	None
+Trump	Trump	30.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	2284		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	2284		Internet	Nonpartisan	None
+Jill Stein	Other	5.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	2284		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	2284		Internet	Nonpartisan	None
+Hillary Clinton (D)	Clinton	56.0	surveyusa-kabc-scng-26606	SurveyUSA/KABC/SCNG	2016-10-28	2016-10-31		Likely Voters	747	3.6	IVR/Online	Nonpartisan	None
+Donald Trump (R)	Trump	35.0	surveyusa-kabc-scng-26606	SurveyUSA/KABC/SCNG	2016-10-28	2016-10-31		Likely Voters	747	3.6	IVR/Online	Nonpartisan	None
+Gary Johnson (L)	Other	4.0	surveyusa-kabc-scng-26606	SurveyUSA/KABC/SCNG	2016-10-28	2016-10-31		Likely Voters	747	3.6	IVR/Online	Nonpartisan	None
+Jill Stein	Other	1.0	surveyusa-kabc-scng-26606	SurveyUSA/KABC/SCNG	2016-10-28	2016-10-31		Likely Voters	747	3.6	IVR/Online	Nonpartisan	None
+Undecided	Undecided	4.0	surveyusa-kabc-scng-26606	SurveyUSA/KABC/SCNG	2016-10-28	2016-10-31		Likely Voters	747	3.6	IVR/Online	Nonpartisan	None
+Clinton/Kaine (D)	Clinton	53.0	field-uc-berkeley-yougov-26655	Field/UC Berkeley/YouGov	2016-10-25	2016-10-31		Likely Voters	1498		Internet	Nonpartisan	None
+Trump/Pence (R)	Trump	33.0	field-uc-berkeley-yougov-26655	Field/UC Berkeley/YouGov	2016-10-25	2016-10-31		Likely Voters	1498		Internet	Nonpartisan	None
+Johnson/Weld (L)	Other	4.0	field-uc-berkeley-yougov-26655	Field/UC Berkeley/YouGov	2016-10-25	2016-10-31		Likely Voters	1498		Internet	Nonpartisan	None
+Stein/Baraka (G)	Other	3.0	field-uc-berkeley-yougov-26655	Field/UC Berkeley/YouGov	2016-10-25	2016-10-31		Likely Voters	1498		Internet	Nonpartisan	None
+Undecided	Undecided	7.0	field-uc-berkeley-yougov-26655	Field/UC Berkeley/YouGov	2016-10-25	2016-10-31		Likely Voters	1498		Internet	Nonpartisan	None
+Clinton	Clinton	55.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	2505		Internet	Nonpartisan	None
+Trump	Trump	30.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	2505		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	2505		Internet	Nonpartisan	None
+Jill Stein	Other	5.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	2505		Internet	Nonpartisan	None
+No answer	Undecided	3.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	2505		Internet	Nonpartisan	None
+Clinton	Clinton	55.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	2264		Internet	Nonpartisan	None
+Trump	Trump	30.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	2264		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	2264		Internet	Nonpartisan	None
+Jill Stein	Other	5.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	2264		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	2264		Internet	Nonpartisan	None
+Democrats Hillary Clinton and Tim Kaine	Clinton	54.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	Thinking about the presidential election, if the election for president were held today and the candidates were -- Democrats Hillary Clinton and Tim Kaine, Republicans Donald Trump and Mike Pence, Green Party candidates Jill Stein and Ajamu Baraka, Libertarian Party candidates Gary Johnson and Bill Weld, and Peace and Freedom Party candidates Gloria Estela la Riva and Dennis Banks, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+Republicans Donald Trump and Mike Pence	Trump	30.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	Thinking about the presidential election, if the election for president were held today and the candidates were -- Democrats Hillary Clinton and Tim Kaine, Republicans Donald Trump and Mike Pence, Green Party candidates Jill Stein and Ajamu Baraka, Libertarian Party candidates Gary Johnson and Bill Weld, and Peace and Freedom Party candidates Gloria Estela la Riva and Dennis Banks, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+Green Party candidates Jill Stein and Ajamu Baraka	Other	3.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	Thinking about the presidential election, if the election for president were held today and the candidates were -- Democrats Hillary Clinton and Tim Kaine, Republicans Donald Trump and Mike Pence, Green Party candidates Jill Stein and Ajamu Baraka, Libertarian Party candidates Gary Johnson and Bill Weld, and Peace and Freedom Party candidates Gloria Estela la Riva and Dennis Banks, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+Libertarian Party candidates Gary Johnson and Bill Weld	Other	4.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	Thinking about the presidential election, if the election for president were held today and the candidates were -- Democrats Hillary Clinton and Tim Kaine, Republicans Donald Trump and Mike Pence, Green Party candidates Jill Stein and Ajamu Baraka, Libertarian Party candidates Gary Johnson and Bill Weld, and Peace and Freedom Party candidates Gloria Estela la Riva and Dennis Banks, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+Peace and Freedom Party candidates Gloria Estela la Riva and Dennis Banks	Other	0.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	Thinking about the presidential election, if the election for president were held today and the candidates were -- Democrats Hillary Clinton and Tim Kaine, Republicans Donald Trump and Mike Pence, Green Party candidates Jill Stein and Ajamu Baraka, Libertarian Party candidates Gary Johnson and Bill Weld, and Peace and Freedom Party candidates Gloria Estela la Riva and Dennis Banks, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+(Other)	Other	1.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	Thinking about the presidential election, if the election for president were held today and the candidates were -- Democrats Hillary Clinton and Tim Kaine, Republicans Donald Trump and Mike Pence, Green Party candidates Jill Stein and Ajamu Baraka, Libertarian Party candidates Gary Johnson and Bill Weld, and Peace and Freedom Party candidates Gloria Estela la Riva and Dennis Banks, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+(Undecided)	Undecided	4.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	Thinking about the presidential election, if the election for president were held today and the candidates were -- Democrats Hillary Clinton and Tim Kaine, Republicans Donald Trump and Mike Pence, Green Party candidates Jill Stein and Ajamu Baraka, Libertarian Party candidates Gary Johnson and Bill Weld, and Peace and Freedom Party candidates Gloria Estela la Riva and Dennis Banks, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+(Refused)	Undecided	2.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	Thinking about the presidential election, if the election for president were held today and the candidates were -- Democrats Hillary Clinton and Tim Kaine, Republicans Donald Trump and Mike Pence, Green Party candidates Jill Stein and Ajamu Baraka, Libertarian Party candidates Gary Johnson and Bill Weld, and Peace and Freedom Party candidates Gloria Estela la Riva and Dennis Banks, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+(Will not vote)	Undecided	1.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	Thinking about the presidential election, if the election for president were held today and the candidates were -- Democrats Hillary Clinton and Tim Kaine, Republicans Donald Trump and Mike Pence, Green Party candidates Jill Stein and Ajamu Baraka, Libertarian Party candidates Gary Johnson and Bill Weld, and Peace and Freedom Party candidates Gloria Estela la Riva and Dennis Banks, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+Democrats Hillary Clinton and Tim Kaine	Clinton	58.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	And if the election for President were held today and you had to choose between Democrats Hillary Clinton and Tim Kaine, and Republicans Donald Trump and Mike Pence, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+Republicans Donald Trump and Mike Pence	Trump	33.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	And if the election for President were held today and you had to choose between Democrats Hillary Clinton and Tim Kaine, and Republicans Donald Trump and Mike Pence, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+(Other)	Other	4.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	And if the election for President were held today and you had to choose between Democrats Hillary Clinton and Tim Kaine, and Republicans Donald Trump and Mike Pence, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+(Undecided)	Undecided	1.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	And if the election for President were held today and you had to choose between Democrats Hillary Clinton and Tim Kaine, and Republicans Donald Trump and Mike Pence, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+(Refused)	Undecided	2.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	And if the election for President were held today and you had to choose between Democrats Hillary Clinton and Tim Kaine, and Republicans Donald Trump and Mike Pence, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+(Will not vote)	Undecided	3.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	And if the election for President were held today and you had to choose between Democrats Hillary Clinton and Tim Kaine, and Republicans Donald Trump and Mike Pence, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+Clinton	Clinton	58.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	481		Internet	Nonpartisan	None
+Trump	Trump	38.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	481		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	481		Internet	Nonpartisan	None
+Clinton	Clinton	54.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	2431		Internet	Nonpartisan	None
+Trump	Trump	31.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	2431		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	2431		Internet	Nonpartisan	None
+Jill Stein	Other	5.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	2431		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	2431		Internet	Nonpartisan	None
+Clinton	Clinton	65.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	1779		Internet	Nonpartisan	None
+Trump	Trump	26.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	1779		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	9.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	1779		Internet	Nonpartisan	None
+Clinton	Clinton	54.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	2358		Internet	Nonpartisan	None
+Trump	Trump	31.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	2358		Internet	Nonpartisan	None
+Johnson	Other	7.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	2358		Internet	Nonpartisan	None
+Jill Stein	Other	5.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	2358		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	2358		Internet	Nonpartisan	None
+Clinton	Clinton	54.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	1923		Internet	Nonpartisan	None
+Trump	Trump	31.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	1923		Internet	Nonpartisan	None
+Johnson	Other	8.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	1923		Internet	Nonpartisan	None
+Jill Stein	Other	5.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	1923		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	1923		Internet	Nonpartisan	None
+Clinton	Clinton	53.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	1492		Internet	Nonpartisan	None
+Trump	Trump	31.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	1492		Internet	Nonpartisan	None
+Johnson	Other	8.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	1492		Internet	Nonpartisan	None
+Jill Stein	Other	5.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	1492		Internet	Nonpartisan	None
+No answer	Undecided	2.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	1492		Internet	Nonpartisan	None
+Clinton	Clinton	58.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	507		Internet	Nonpartisan	None
+Trump	Trump	38.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	507		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	507		Internet	Nonpartisan	None
+Democratic ticket of Clinton and Kaine	Clinton	54.0	ppic-26498	PPIC	2016-10-14	2016-10-23		Likely Voters	1012		Live Phone	Nonpartisan	None
+Republican ticket of Trump and Pence	Trump	28.0	ppic-26498	PPIC	2016-10-14	2016-10-23		Likely Voters	1012		Live Phone	Nonpartisan	None
+Libertarian ticket of Johnson and Weld	Other	5.0	ppic-26498	PPIC	2016-10-14	2016-10-23		Likely Voters	1012		Live Phone	Nonpartisan	None
+Green party ticket of Stein and Baraka	Other	5.0	ppic-26498	PPIC	2016-10-14	2016-10-23		Likely Voters	1012		Live Phone	Nonpartisan	None
+Someone Else (vol.)	Other	2.0	ppic-26498	PPIC	2016-10-14	2016-10-23		Likely Voters	1012		Live Phone	Nonpartisan	None
+Would not vote for president (vol)	Undecided	1.0	ppic-26498	PPIC	2016-10-14	2016-10-23		Likely Voters	1012		Live Phone	Nonpartisan	None
+Don't Know (vol)	Undecided	4.0	ppic-26498	PPIC	2016-10-14	2016-10-23		Likely Voters	1012		Live Phone	Nonpartisan	None
+Clinton	Clinton	64.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	1013		Internet	Nonpartisan	None
+Trump	Trump	26.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	1013		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	10.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	1013		Internet	Nonpartisan	None
+Clinton	Clinton	58.0	upi-cvoter-26292	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	483		Internet	Nonpartisan	None
+Trump	Trump	37.0	upi-cvoter-26292	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	483		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-26292	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	483		Internet	Nonpartisan	None
+Hillary Clinton (D)	Clinton	56.0	surveyusa-kabc-scng-26224	SurveyUSA/KABC/SCNG	2016-10-13	2016-10-15		Likely Voters	725	3.7	IVR/Online	Nonpartisan	None
+Donald Trump (R)	Trump	30.0	surveyusa-kabc-scng-26224	SurveyUSA/KABC/SCNG	2016-10-13	2016-10-15		Likely Voters	725	3.7	IVR/Online	Nonpartisan	None
+Gary Johnson (L)	Other	4.0	surveyusa-kabc-scng-26224	SurveyUSA/KABC/SCNG	2016-10-13	2016-10-15		Likely Voters	725	3.7	IVR/Online	Nonpartisan	None
+Jill Stein	Other	2.0	surveyusa-kabc-scng-26224	SurveyUSA/KABC/SCNG	2016-10-13	2016-10-15		Likely Voters	725	3.7	IVR/Online	Nonpartisan	None
+Undecided	Undecided	7.0	surveyusa-kabc-scng-26224	SurveyUSA/KABC/SCNG	2016-10-13	2016-10-15		Likely Voters	725	3.7	IVR/Online	Nonpartisan	None
+Hillary Clinton, Democratic party	Clinton	61.0	sacramento-state-26535	Sacramento State	2016-10-07	2016-10-13	If the presidential election were tomorrow, for whom would you vote?	Likely Voters	622	7.0	Internet	Nonpartisan	None
+Donald Trump, Republican party	Trump	25.0	sacramento-state-26535	Sacramento State	2016-10-07	2016-10-13	If the presidential election were tomorrow, for whom would you vote?	Likely Voters	622	7.0	Internet	Nonpartisan	None
+Gary Johnson, Libertarian party	Other	4.0	sacramento-state-26535	Sacramento State	2016-10-07	2016-10-13	If the presidential election were tomorrow, for whom would you vote?	Likely Voters	622	7.0	Internet	Nonpartisan	None
+Jill Stein, Green party	Other	3.0	sacramento-state-26535	Sacramento State	2016-10-07	2016-10-13	If the presidential election were tomorrow, for whom would you vote?	Likely Voters	622	7.0	Internet	Nonpartisan	None
+Other/Undecided/Don’t Know	Undecided	8.0	sacramento-state-26535	Sacramento State	2016-10-07	2016-10-13	If the presidential election were tomorrow, for whom would you vote?	Likely Voters	622	7.0	Internet	Nonpartisan	None
+Clinton	Clinton	66.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	1196		Internet	Nonpartisan	None
+Trump	Trump	22.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	1196		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	12.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	1196		Internet	Nonpartisan	None
+Clinton	Clinton	58.0	upi-cvoter-26026	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	474		Internet	Nonpartisan	None
+Trump	Trump	37.0	upi-cvoter-26026	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	474		Internet	Nonpartisan	None
+Other	Other	5.0	upi-cvoter-26026	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	474		Internet	Nonpartisan	None
+Clinton	Clinton	61.0	ipsos-reuters-26100	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	1885		Internet	Nonpartisan	None
+Trump	Trump	28.0	ipsos-reuters-26100	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	1885		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	11.0	ipsos-reuters-26100	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	1885		Internet	Nonpartisan	None
+Clinton	Clinton	57.0	upi-cvoter-25902	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	992		Internet	Nonpartisan	None
+Trump	Trump	39.0	upi-cvoter-25902	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	992		Internet	Nonpartisan	None
+Other	Other	4.0	upi-cvoter-25902	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	992		Internet	Nonpartisan	None
+Clinton	Clinton	64.0	ipsos-reuters-25853	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	1610		Internet	Nonpartisan	None
+Trump	Trump	24.0	ipsos-reuters-25853	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	1610		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	12.0	ipsos-reuters-25853	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	1610		Internet	Nonpartisan	None
+Hillary Clinton (D)	Clinton	59.0	surveyusa-kabc-scng-25809	SurveyUSA/KABC/SCNG	2016-09-27	2016-09-28		Likely Voters	732	3.6	IVR/Online	Nonpartisan	None
+Donald Trump (R)	Trump	33.0	surveyusa-kabc-scng-25809	SurveyUSA/KABC/SCNG	2016-09-27	2016-09-28		Likely Voters	732	3.6	IVR/Online	Nonpartisan	None
+Gary Johnson (L)	Other	3.0	surveyusa-kabc-scng-25809	SurveyUSA/KABC/SCNG	2016-09-27	2016-09-28		Likely Voters	732	3.6	IVR/Online	Nonpartisan	None
+Jill Stein	Other	2.0	surveyusa-kabc-scng-25809	SurveyUSA/KABC/SCNG	2016-09-27	2016-09-28		Likely Voters	732	3.6	IVR/Online	Nonpartisan	None
+Undecided	Undecided	3.0	surveyusa-kabc-scng-25809	SurveyUSA/KABC/SCNG	2016-09-27	2016-09-28		Likely Voters	732	3.6	IVR/Online	Nonpartisan	None
+Clinton	Clinton	57.0	upi-cvoter-25731	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	951		Internet	Nonpartisan	None
+Trump	Trump	38.0	upi-cvoter-25731	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	951		Internet	Nonpartisan	None
+Other	Other	5.0	upi-cvoter-25731	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	951		Internet	Nonpartisan	None
+Clinton	Clinton	60.0	ipsos-reuters-25681	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	1468		Internet	Nonpartisan	None
+Trump	Trump	28.0	ipsos-reuters-25681	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	1468		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	12.0	ipsos-reuters-25681	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	1468		Internet	Nonpartisan	None
+Democratic ticket of Clinton and Kaine	Clinton	47.0	ppic-25632	PPIC	2016-09-09	2016-09-18	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1045	4.5	Live Phone	Nonpartisan	None
+Republican ticket of Trump and Pence	Trump	31.0	ppic-25632	PPIC	2016-09-09	2016-09-18	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1045	4.5	Live Phone	Nonpartisan	None
+Libertarian ticket of Johnson and Weld	Other	10.0	ppic-25632	PPIC	2016-09-09	2016-09-18	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1045	4.5	Live Phone	Nonpartisan	None
+Green party ticket of Stein and Baraka	Other	5.0	ppic-25632	PPIC	2016-09-09	2016-09-18	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1045	4.5	Live Phone	Nonpartisan	None
+Someone Else (vol.)	Other	2.0	ppic-25632	PPIC	2016-09-09	2016-09-18	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1045	4.5	Live Phone	Nonpartisan	None
+Would not vote for president (vol)	Undecided	2.0	ppic-25632	PPIC	2016-09-09	2016-09-18	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1045	4.5	Live Phone	Nonpartisan	None
+Don't Know (vol)	Undecided	4.0	ppic-25632	PPIC	2016-09-09	2016-09-18	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1045	4.5	Live Phone	Nonpartisan	None
+Clinton	Clinton	63.0	ipsos-reuters-25540	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	1189		Internet	Nonpartisan	None
+Trump	Trump	24.0	ipsos-reuters-25540	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	1189		Internet	Nonpartisan	None
+Don't Know/Other	Undecided	13.0	ipsos-reuters-25540	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	1189		Internet	Nonpartisan	None
+Hillary Clinton (D)	Clinton	57.0	insights-west-25629	Insights West	2016-09-12	2016-09-14	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	515	4.3	Internet	Nonpartisan	None
+Donald Trump (R)	Trump	30.0	insights-west-25629	Insights West	2016-09-12	2016-09-14	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	515	4.3	Internet	Nonpartisan	None
+Gary Johnson (L)	Other	2.0	insights-west-25629	Insights West	2016-09-12	2016-09-14	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	515	4.3	Internet	Nonpartisan	None
+Jill Stein (G)	Other	1.0	insights-west-25629	Insights West	2016-09-12	2016-09-14	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	515	4.3	Internet	Nonpartisan	None
+Some other candidate	Other	1.0	insights-west-25629	Insights West	2016-09-12	2016-09-14	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	515	4.3	Internet	Nonpartisan	None
+Undecided	Undecided	9.0	insights-west-25629	Insights West	2016-09-12	2016-09-14	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	515	4.3	Internet	Nonpartisan	None
+Clinton/Kaine (D)	Clinton	50.0	field-uc-berkeley-yougov-25577	Field/UC Berkeley/YouGov	2016-09-07	2016-09-13		Likely Voters	1426		Internet	Nonpartisan	None
+Trump/Pence (R)	Trump	33.0	field-uc-berkeley-yougov-25577	Field/UC Berkeley/YouGov	2016-09-07	2016-09-13		Likely Voters	1426		Internet	Nonpartisan	None
+Johnson/Weld (L)	Other	6.0	field-uc-berkeley-yougov-25577	Field/UC Berkeley/YouGov	2016-09-07	2016-09-13		Likely Voters	1426		Internet	Nonpartisan	None
+Stein/Baraka (G)	Other	5.0	field-uc-berkeley-yougov-25577	Field/UC Berkeley/YouGov	2016-09-07	2016-09-13		Likely Voters	1426		Internet	Nonpartisan	None
+Undecided	Undecided	6.0	field-uc-berkeley-yougov-25577	Field/UC Berkeley/YouGov	2016-09-07	2016-09-13		Likely Voters	1426		Internet	Nonpartisan	None
+Hillary Clinton (D)	Clinton	57.0	surveyusa-kabc-scng-25467	SurveyUSA/KABC/SCNG	2016-09-08	2016-09-11		Likely Voters	678		IVR/Online	Nonpartisan	None
+Donald Trump (R)	Trump	32.0	surveyusa-kabc-scng-25467	SurveyUSA/KABC/SCNG	2016-09-08	2016-09-11		Likely Voters	678		IVR/Online	Nonpartisan	None
+Gary Johnson (L)	Other	3.0	surveyusa-kabc-scng-25467	SurveyUSA/KABC/SCNG	2016-09-08	2016-09-11		Likely Voters	678		IVR/Online	Nonpartisan	None
+Jill Stein	Other	1.0	surveyusa-kabc-scng-25467	SurveyUSA/KABC/SCNG	2016-09-08	2016-09-11		Likely Voters	678		IVR/Online	Nonpartisan	None
+Undecided	Undecided	7.0	surveyusa-kabc-scng-25467	SurveyUSA/KABC/SCNG	2016-09-08	2016-09-11		Likely Voters	678		IVR/Online	Nonpartisan	None
+Clinton	Clinton	58.0	surveymonkey-la-times-25472	SurveyMonkey/LA Times	2016-09-01	2016-09-08		Registered Voters	4212	2.0	Internet	Nonpartisan	None
+Trump	Trump	33.0	surveymonkey-la-times-25472	SurveyMonkey/LA Times	2016-09-01	2016-09-08		Registered Voters	4212	2.0	Internet	Nonpartisan	None
+DK/NA	Undecided	9.0	surveymonkey-la-times-25472	SurveyMonkey/LA Times	2016-09-01	2016-09-08		Registered Voters	4212	2.0	Internet	Nonpartisan	None
+Clinton	Clinton	49.0	surveymonkey-la-times-25472	SurveyMonkey/LA Times	2016-09-01	2016-09-08		Registered Voters	4212	2.0	Internet	Nonpartisan	None
+Trump	Trump	29.0	surveymonkey-la-times-25472	SurveyMonkey/LA Times	2016-09-01	2016-09-08		Registered Voters	4212	2.0	Internet	Nonpartisan	None
+Johnson	Other	11.0	surveymonkey-la-times-25472	SurveyMonkey/LA Times	2016-09-01	2016-09-08		Registered Voters	4212	2.0	Internet	Nonpartisan	None
+Stein	Other	6.0	surveymonkey-la-times-25472	SurveyMonkey/LA Times	2016-09-01	2016-09-08		Registered Voters	4212	2.0	Internet	Nonpartisan	None
+DK/NA	Undecided	5.0	surveymonkey-la-times-25472	SurveyMonkey/LA Times	2016-09-01	2016-09-08		Registered Voters	4212	2.0	Internet	Nonpartisan	None
+Hillary Clinton, the Democrat	Clinton	57.0	washpost-surveymonkey-25359	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2574		Internet	Nonpartisan	None
+Donald Trump, the Republican	Trump	33.0	washpost-surveymonkey-25359	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2574		Internet	Nonpartisan	None
+No Answer	Undecided	9.0	washpost-surveymonkey-25359	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2574		Internet	Nonpartisan	None
+Hillary Clinton, the Democrat	Clinton	49.0	washpost-surveymonkey-25359	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2574		Internet	Nonpartisan	None
+Donald Trump, the Republican	Trump	28.0	washpost-surveymonkey-25359	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2574		Internet	Nonpartisan	None
+Gary Johnson, the Libertarian	Other	12.0	washpost-surveymonkey-25359	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2574		Internet	Nonpartisan	None
+Jill Stein, the Green Party	Other	7.0	washpost-surveymonkey-25359	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2574		Internet	Nonpartisan	None
+No answer	Undecided	5.0	washpost-surveymonkey-25359	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2574		Internet	Nonpartisan	None
+Hillary Clinton, the Democrat	Clinton	46.0	ppic-24984	PPIC	2016-07-10	2016-07-19	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1056	4.3	Live Phone	Nonpartisan	None
+Donald Trump, the Republican	Trump	30.0	ppic-24984	PPIC	2016-07-10	2016-07-19	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1056	4.3	Live Phone	Nonpartisan	None
+Gary Johnson, the Libertarian	Other	7.0	ppic-24984	PPIC	2016-07-10	2016-07-19	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1056	4.3	Live Phone	Nonpartisan	None
+Jill Stein, the Green Party candidate	Other	6.0	ppic-24984	PPIC	2016-07-10	2016-07-19	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1056	4.3	Live Phone	Nonpartisan	None
+Someone else	Other	2.0	ppic-24984	PPIC	2016-07-10	2016-07-19	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1056	4.3	Live Phone	Nonpartisan	None
+Would not vote for president (vol)	Undecided	2.0	ppic-24984	PPIC	2016-07-10	2016-07-19	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1056	4.3	Live Phone	Nonpartisan	None
+Don't Know	Undecided	7.0	ppic-24984	PPIC	2016-07-10	2016-07-19	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1056	4.3	Live Phone	Nonpartisan	None
+Clinton	Clinton	58.0	field-24831	Field	2016-06-08	2016-07-02		Likely Voters	956	3.2	Live Phone	Nonpartisan	None
+Trump	Trump	28.0	field-24831	Field	2016-06-08	2016-07-02		Likely Voters	956	3.2	Live Phone	Nonpartisan	None
+Undecided	Undecided	14.0	field-24831	Field	2016-06-08	2016-07-02		Likely Voters	956	3.2	Live Phone	Nonpartisan	None
+Clinton	Clinton	50.0	field-24831	Field	2016-06-08	2016-07-02		Likely Voters	956	3.2	Live Phone	Nonpartisan	None
+Trump	Trump	26.0	field-24831	Field	2016-06-08	2016-07-02		Likely Voters	956	3.2	Live Phone	Nonpartisan	None
+Johnson	Other	10.0	field-24831	Field	2016-06-08	2016-07-02		Likely Voters	956	3.2	Live Phone	Nonpartisan	None
+Undecided	Undecided	14.0	field-24831	Field	2016-06-08	2016-07-02		Likely Voters	956	3.2	Live Phone	Nonpartisan	None
+Clinton	Clinton	54.0	surveymonkey-usc-la-times-24674	SurveyMonkey/USC/LA Times	2016-06-09	2016-06-10		Likely Voters	1264	4.0	Live Phone	Nonpartisan	None
+Trump	Trump	28.0	surveymonkey-usc-la-times-24674	SurveyMonkey/USC/LA Times	2016-06-09	2016-06-10		Likely Voters	1264	4.0	Live Phone	Nonpartisan	None
+Stein	Other	7.0	surveymonkey-usc-la-times-24674	SurveyMonkey/USC/LA Times	2016-06-09	2016-06-10		Likely Voters	1264	4.0	Live Phone	Nonpartisan	None
+Johnson	Other	5.0	surveymonkey-usc-la-times-24674	SurveyMonkey/USC/LA Times	2016-06-09	2016-06-10		Likely Voters	1264	4.0	Live Phone	Nonpartisan	None
+No Answer	Undecided	6.0	surveymonkey-usc-la-times-24674	SurveyMonkey/USC/LA Times	2016-06-09	2016-06-10		Likely Voters	1264	4.0	Live Phone	Nonpartisan	None
+Clinton	Clinton	61.0	surveymonkey-usc-la-times-24674	SurveyMonkey/USC/LA Times	2016-06-09	2016-06-10	If the election were held today among just the following two candidates, for whom would you vote?	Likely Voters	1264	4.0	Live Phone	Nonpartisan	None
+Trump	Trump	31.0	surveymonkey-usc-la-times-24674	SurveyMonkey/USC/LA Times	2016-06-09	2016-06-10	If the election were held today among just the following two candidates, for whom would you vote?	Likely Voters	1264	4.0	Live Phone	Nonpartisan	None
+No Answer	Undecided	8.0	surveymonkey-usc-la-times-24674	SurveyMonkey/USC/LA Times	2016-06-09	2016-06-10	If the election were held today among just the following two candidates, for whom would you vote?	Likely Voters	1264	4.0	Live Phone	Nonpartisan	None
+Clinton	Clinton	48.0	cbs-yougov-24612	CBS/YouGov	2016-05-31	2016-06-03		Likely Voters	1187	3.9	Internet	Nonpartisan	None
+Trump	Trump	33.0	cbs-yougov-24612	CBS/YouGov	2016-05-31	2016-06-03		Likely Voters	1187	3.9	Internet	Nonpartisan	None
+Other	Other	12.0	cbs-yougov-24612	CBS/YouGov	2016-05-31	2016-06-03		Likely Voters	1187	3.9	Internet	Nonpartisan	None
+Undecided	Undecided	6.0	cbs-yougov-24612	CBS/YouGov	2016-05-31	2016-06-03		Likely Voters	1187	3.9	Internet	Nonpartisan	None
+Wouldn't Vote	Undecided	1.0	cbs-yougov-24612	CBS/YouGov	2016-05-31	2016-06-03		Likely Voters	1187	3.9	Internet	Nonpartisan	None
+Clinton	Clinton	55.0	nbc-wsj-marist-24593	NBC/WSJ/Marist	2016-05-29	2016-05-31		Registered Voters	1833	2.3	Live Phone	Nonpartisan	None
+Neither	Other	8.0	nbc-wsj-marist-24593	NBC/WSJ/Marist	2016-05-29	2016-05-31		Registered Voters	1833	2.3	Live Phone	Nonpartisan	None
+Trump	Trump	31.0	nbc-wsj-marist-24593	NBC/WSJ/Marist	2016-05-29	2016-05-31		Registered Voters	1833	2.3	Live Phone	Nonpartisan	None
+Undecided	Undecided	6.0	nbc-wsj-marist-24593	NBC/WSJ/Marist	2016-05-29	2016-05-31		Registered Voters	1833	2.3	Live Phone	Nonpartisan	None
+Clinton	Clinton	53.0	field-24594	Field	2016-05-26	2016-05-31		Likely Voters	1002	3.2	Live Phone	Nonpartisan	None
+Trump	Trump	34.0	field-24594	Field	2016-05-26	2016-05-31		Likely Voters	1002	3.2	Live Phone	Nonpartisan	None
+Undecided	Undecided	13.0	field-24594	Field	2016-05-26	2016-05-31		Likely Voters	1002	3.2	Live Phone	Nonpartisan	None
+Clinton	Clinton	54.0	usc-la-times-24603	USC/LA Times	2016-05-19	2016-05-31		Likely Voters	1150		Live Phone	Nonpartisan	None
+Other	Other	4.0	usc-la-times-24603	USC/LA Times	2016-05-19	2016-05-31		Likely Voters	1150		Live Phone	Nonpartisan	None
+Refused	Undecided	1.0	usc-la-times-24603	USC/LA Times	2016-05-19	2016-05-31		Likely Voters	1150		Live Phone	Nonpartisan	None
+Trump	Trump	33.0	usc-la-times-24603	USC/LA Times	2016-05-19	2016-05-31		Likely Voters	1150		Live Phone	Nonpartisan	None
+Undecided	Undecided	3.0	usc-la-times-24603	USC/LA Times	2016-05-19	2016-05-31		Likely Voters	1150		Live Phone	Nonpartisan	None
+Will not vote	Undecided	6.0	usc-la-times-24603	USC/LA Times	2016-05-19	2016-05-31		Likely Voters	1150		Live Phone	Nonpartisan	None
+Clinton	Clinton	52.0	surveyusa-kabc-scng-24538	SurveyUSA/KABC/SCNG	2016-05-19	2016-05-22		Likely Voters	1383		IVR/Online	Nonpartisan	None
+Trump	Trump	38.0	surveyusa-kabc-scng-24538	SurveyUSA/KABC/SCNG	2016-05-19	2016-05-22		Likely Voters	1383		IVR/Online	Nonpartisan	None
+Undecided	Undecided	10.0	surveyusa-kabc-scng-24538	SurveyUSA/KABC/SCNG	2016-05-19	2016-05-22		Likely Voters	1383		IVR/Online	Nonpartisan	None
+Clinton	Clinton	49.0	ppic-24558	PPIC	2016-05-13	2016-05-22		Likely Voters	996	4.3	Live Phone	Nonpartisan	None
+Trump	Trump	39.0	ppic-24558	PPIC	2016-05-13	2016-05-22		Likely Voters	996	4.3	Live Phone	Nonpartisan	None
+Other	Other	7.0	ppic-24558	PPIC	2016-05-13	2016-05-22		Likely Voters	996	4.3	Live Phone	Nonpartisan	None
+Someone else	Undecided	4.0	ppic-24558	PPIC	2016-05-13	2016-05-22		Likely Voters	996	4.3	Live Phone	Nonpartisan	None
+Clinton	Clinton	45.0	yougov-hoover-institution-24574	YouGov/Hoover Institution	2016-05-04	2016-05-16		Likely Voters	1196		Internet	Nonpartisan	None
+Trump	Trump	33.0	yougov-hoover-institution-24574	YouGov/Hoover Institution	2016-05-04	2016-05-16		Likely Voters	1196		Internet	Nonpartisan	None
+Johnson	Other	4.0	yougov-hoover-institution-24574	YouGov/Hoover Institution	2016-05-04	2016-05-16		Likely Voters	1196		Internet	Nonpartisan	None
+Other	Other	8.0	yougov-hoover-institution-24574	YouGov/Hoover Institution	2016-05-04	2016-05-16		Likely Voters	1196		Internet	Nonpartisan	None
+Undecided	Undecided	9.0	yougov-hoover-institution-24574	YouGov/Hoover Institution	2016-05-04	2016-05-16		Likely Voters	1196		Internet	Nonpartisan	None
+Wouldn't Vote	Undecided	1.0	yougov-hoover-institution-24574	YouGov/Hoover Institution	2016-05-04	2016-05-16		Likely Voters	1196		Internet	Nonpartisan	None
+Clinton	Clinton	56.0	surveyusa-kabc-scng-24427	SurveyUSA/KABC/SCNG	2016-04-27	2016-04-30		Likely Voters	1683	2.4	IVR/Online	Nonpartisan	None
+Trump	Trump	34.0	surveyusa-kabc-scng-24427	SurveyUSA/KABC/SCNG	2016-04-27	2016-04-30		Likely Voters	1683	2.4	IVR/Online	Nonpartisan	None
+Undecided	Undecided	10.0	surveyusa-kabc-scng-24427	SurveyUSA/KABC/SCNG	2016-04-27	2016-04-30		Likely Voters	1683	2.4	IVR/Online	Nonpartisan	None
+Clinton	Clinton	59.0	field-24222	Field	2016-03-24	2016-04-04		Registered Voters	1400	3.2	Live Phone	Nonpartisan	None
+Trump	Trump	31.0	field-24222	Field	2016-03-24	2016-04-04		Registered Voters	1400	3.2	Live Phone	Nonpartisan	None
+Undecided	Undecided	10.0	field-24222	Field	2016-03-24	2016-04-04		Registered Voters	1400	3.2	Live Phone	Nonpartisan	None
+Clinton	Clinton	60.0	surveyusa-24205	SurveyUSA	2016-03-30	2016-04-03		Likely Voters	1507	2.5	IVR/Online	Nonpartisan	None
+Trump	Trump	26.0	surveyusa-24205	SurveyUSA	2016-03-30	2016-04-03		Likely Voters	1507	2.5	IVR/Online	Nonpartisan	None
+Undecided	Undecided	14.0	surveyusa-24205	SurveyUSA	2016-03-30	2016-04-03		Likely Voters	1507	2.5	IVR/Online	Nonpartisan	None
+Clinton	Clinton	57.0	usc-la-times-24155	USC/LA Times	2016-03-16	2016-03-23		Likely Voters	1202		Live Phone	Nonpartisan	None
+Other	Other	5.0	usc-la-times-24155	USC/LA Times	2016-03-16	2016-03-23		Likely Voters	1202		Live Phone	Nonpartisan	None
+Refused	Undecided	1.0	usc-la-times-24155	USC/LA Times	2016-03-16	2016-03-23		Likely Voters	1202		Live Phone	Nonpartisan	None
+Trump	Trump	30.0	usc-la-times-24155	USC/LA Times	2016-03-16	2016-03-23		Likely Voters	1202		Live Phone	Nonpartisan	None
+Undecided	Undecided	3.0	usc-la-times-24155	USC/LA Times	2016-03-16	2016-03-23		Likely Voters	1202		Live Phone	Nonpartisan	None
+Will not vote	Undecided	4.0	usc-la-times-24155	USC/LA Times	2016-03-16	2016-03-23		Likely Voters	1202		Live Phone	Nonpartisan	None

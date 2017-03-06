@@ -6,13 +6,21 @@ Created on Sun Jan 22 11:26:01 2017
 @author: mikewoodward
 
 Gets Presidential polling data from the Huffington Post via the new (v2)
-Pollster API
+Pollster API.
+
+For details of licensing etc, see the Github page:
+    https://github.com/MikeWoodward/PresidentialPredictor
 
 """
 
+
+# =============================================================================
+# Imports
+# =============================================================================
 import json
 import os.path
 import requests
+
 
 # =============================================================================
 # Main
@@ -21,11 +29,12 @@ if __name__ == '__main__':
 
     election = {'2008': u'2008-11-04',
                 '2012': u'2012-11-06',
-                '2016': u'2016-11-08'}
+                '2016': u'2016-11-08',
+                '2020': u'2020-11-03'}
 
     raw_dir = 'RawPollResponses'
 
-    year = '2016'
+    year = '2016'  # The election year
 
     # This is the 'suffix' used for the general election slugs used by the
     # Huffington Post API. The format they use is {two digit year, e.g. 16}-
@@ -50,7 +59,7 @@ if __name__ == '__main__':
 
     # Variable holds question slugs. There's a slug for each state
     # Using a set  because it automatically copes with duplicates.
-    slug_set = Set()
+    slug_set = set()
 
     # Read all the Huffington Post data until there's no more data
     while True:
