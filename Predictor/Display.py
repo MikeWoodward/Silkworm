@@ -405,7 +405,7 @@ class Display(object):
 
     def choropleth(self):
 
-        """Chloropleth map of the US states, with AK and HI moved to display
+        """Choropleth map of the US states, with AK and HI moved to display
         the states as they're typically shown on maps."""
 
         margin_df = self.states.get_latest_results()
@@ -499,7 +499,7 @@ class Display(object):
 
     def margin_weight(self):
 
-        """Shows the maring for each state."""
+        """Shows the margin for each state."""
 
         margin = self.states.get_latest_results()
         margin_alloc = margin.merge(self.alloc)
