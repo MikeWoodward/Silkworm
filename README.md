@@ -1,4 +1,4 @@
-#PresidentialPredictor
+# PresidentialPredictor #
 
 This software takes state level opinion polls data and forecasts who will win the US presidential election.
 
