@@ -42,12 +42,12 @@ if __name__ == '__main__':
 
     YEAR = 2016
 
-    print "\nPresidential Predictor"
-    print "======================\n"
+    print("\nPresidential Predictor")
+    print("======================\n")
 
     # Read in data files
     # ==================
-    print "Reading in data files"
+    print("Reading in data files")
 
     # Read in the election dates
     election_dates = ElectionDates()
@@ -56,9 +56,9 @@ if __name__ == '__main__':
     current_election = election_dates.select(YEAR)
     previous_election = election_dates.select(YEAR - 4)
 
-    print "Current election: {0}\n" \
+    print("Current election: {0}\n" \
           "Previous election {1}\n".format(current_election.date(),
-                                           previous_election.date())
+                                           previous_election.date()))
 
     # Get the election results for the previous elections
     results = Results(previous_election)
@@ -75,20 +75,20 @@ if __name__ == '__main__':
     polls.prepare_data()
     current_polls = polls.select(current_election)
 
-    print "Number of polls for this election: {0}"\
-          .format(current_polls['Poll ID'].nunique())
+    print("Number of polls for this election: {0}"\
+          .format(current_polls['Poll ID'].nunique()))
 
     # State and Electoral College results
     # ===================================
-    print "Calculating state results"
+    print("Calculating state results")
     states = States(previous_results, current_polls,
                     previous_election, current_election)
     states.prepare_data()
     states.averages()
     states.interpolate()
 
-    print states.get_status()
-    print states.get_latest_results()
+    print(states.get_status())
+    print(states.get_latest_results())
 
     # Electoral College distributions
     # ===============================
