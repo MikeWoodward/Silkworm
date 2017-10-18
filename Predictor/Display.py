@@ -72,7 +72,9 @@ def get_palette(color='red', count=9):
     # Calls either the red or blue function to get the complete red or blue
     # palette
     for i in ilist:
-        colors.append("#" + "".join(map(chr, c_f(i))).encode('hex'))
+        r, g, b = c_f(i)
+        colors.append('#' + 
+                      hex(r*256*256 + g*256 + b).replace('0x', '').zfill(6))
 
     return colors
 
@@ -98,7 +100,7 @@ class Display(object):
         self.college = college
         self.alloc = current_allocations
 
-        # The latest (most recent) Electraol College distribution
+        # The latest (most recent) Electoral College distribution
         self.d_dist, self.r_dist, self.ec_date, self.d_max, self.r_max = \
             self.college.get_latest()
 
@@ -206,11 +208,11 @@ class Display(object):
 
     def ec_dist_page(self):
 
-        dem = pd.DataFrame(range(len(self.d_dist)), columns=['EC'])
+        dem = pd.DataFrame(list(range(len(self.d_dist))), columns=['EC'])
         dem['prob'] = self.d_dist
         dem = dem[dem['prob'] > 0]
 
-        rep = pd.DataFrame(range(len(self.r_dist)), columns=['EC'])
+        rep = pd.DataFrame(list(range(len(self.r_dist))), columns=['EC'])
         rep['prob'] = self.r_dist
         rep = rep[rep['prob'] > 0]
 
