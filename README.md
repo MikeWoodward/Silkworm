@@ -1,30 +1,40 @@
-# PresidentialPredictor #
+# Silkworm - US presidential election result predictor
 
-This software takes state level opinion polls data and forecasts who will win the US presidential election.
+## Introduction
 
-The data comes from the Huffington Post Pollster API (http://elections.huffingtonpost.com/pollster/api). I use the new (v2) version of their API in my current Github release. 
+Silkworm forecasts who will win the US presidential election using two sets of input data:
+* State polls
+* Previous election results 
 
-The software is based on the work of Sam Wang of the Princeton Election Consortium (http://election.princeton.edu/). I took his MATLAB code and made a series of modifications:
-* I only use opinion polls if there are more than 10 polls reported in the state, less than 10 polls and I use the previous election result (I found this experimentally to be more reliable).
-* I average over the last 10 polls or more. I take at least 10 polls - including all the polls that took place during the period covered by the 10 polls. For example, if the 10th poll took place on October 26, and there were five polls in total taken on October 26, I include all those polls meaning I average over 14 polls.
-* I use a weighted median of the polls.
+## How it works
+
+It aggregates polls using a rolling 7-day window, arranging the polls by candidate spread and choosing the median poll. The prior election result is used to 'seed' the analysis in all cases. Where no polls exist, the prior election result is used. From the polling (or election) data, Silkworm calculates a daily candidate win probability.
+
+The software combines the state/candidate winning probabilities using a generator polynomial. This gives a daily electoral college vote forecast.
+
+The software is based on the work of Sam Wang of the Princeton Election Consortium (http://election.princeton.edu/). I took his MATLAB code and made an extensive series of modifications. The code has diverged so much, they are essentially different projects at this stage.
+
+## Where the data comes from
+
+Election result data comes from Wikipedia.
+
+2020 opinion poll data comes from 538: https://projects.fivethirtyeight.com/polls/president-general/
+
+Opinion poll data prior to 2020 comes from the Huffington Post Pollster API (http://elections.huffingtonpost.com/pollster/api). This API is no longer updated.
+
+# Python libraries used
 
 The software uses the following libraries:
 * Pandas - used extensively.
 * Bokeh - used for visualization.
 * Requests - used to retrieve data from the Huffington Post API.
 
-The results visualization is done with Bokeh using the Bokeh Server. You'll need to start the Bokeh server prior to running the presidential predictor software (from the command line, type 'bokeh serve').
+# Running the software
 
-There are three main files:
-* GetPollResponses.py - this retrieves the poll data using the Huffington Post Pollster API.
-* NormalizeResponses.py - this prepares the poll data for use by the predictor.
-* PresidentialPredictor.py - the code that does all the work. The classes used by the predictor are in the Predictor folder.
+1. Install Bokeh version 2.2.1 or higher
+2. Download the project to a folder called sikworm
+3. From the folder above silkworm, type in `bokeh serve --show silkworm`
+4. Navigate to the tab 'Run/load forecast'
+5. Load the 2020 analysis.
+6. Explore the data!
 
-To run the software:
-* Run GetPollResponses to get the opinion poll data.
-* Run NormalizeResponses to normalize the data (you'll need to create a NormalizedPollResponses folder).
-* Start the bokeh server from the command line ('bokeh serve').
-* Run the PresidentialPredictor to make a forecast.
-
-This software works well for predicting the 2012 election, but like all similar models, it fails with the 2016 election.
