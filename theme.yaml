@@ -1,0 +1,11 @@
+attrs:
+  Title:
+    text_font_size: "20pt"
+  Line:
+    line_width: 2
+  Axis:
+    major_label_text_font_size: "12pt"
+    axis_label_text_font_size: "15pt"
+  DataTable:
+    width_policy: "min"
+    height_policy: "max"
