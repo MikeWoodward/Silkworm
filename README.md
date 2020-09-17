@@ -6,6 +6,8 @@ Silkworm forecasts who will win the US presidential election using two sets of i
 * State polls
 * Previous election results 
 
+<img src="https://github.com/MikeWoodward/Silkworm/blob/master/documentation/Geography.png"/> 
+
 ## How it works
 
 It aggregates polls using a rolling 7-day window, arranging the polls by candidate spread and choosing the median poll. The prior election result is used to 'seed' the analysis in all cases. Where no polls exist, the prior election result is used. From the polling (or election) data, Silkworm calculates a daily candidate win probability.
