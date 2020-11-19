@@ -11,7 +11,7 @@ Silkworm forecasts who will win the US presidential election using two sets of i
 You can see a video of my PyData Boston presentation on Silkworm here: https://www.youtube.com/watch?v=5Pnr0wbuUzM&t=23s
 
 I've blogged a lot on forecasting US Presidential elections. Here are some of my blog posts:
-* [Fundamentally wrong? Using economic data as an election predictor] https://blog.engora.com/2020/10/fundamentally-wrong-using-economic-data.html
+* [Fundamentally wrong? Using economic data as an election predictor](https://blog.engora.com/2020/10/fundamentally-wrong-using-economic-data.html)
 
 
 ## How it works
