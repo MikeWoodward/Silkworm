@@ -8,6 +8,12 @@ Silkworm forecasts who will win the US presidential election using two sets of i
 
 <img src="https://github.com/MikeWoodward/Silkworm/blob/master/documentation/Geography.png"/> 
 
+You can see a video of my PyData Boston presentation on Silkworm here: https://www.youtube.com/watch?v=5Pnr0wbuUzM&t=23s
+
+I've blogged a lot on forecasting US Presidential elections. Here are some of my blog posts:
+* [Fundamentally wrong? Using economic data as an election predictor] https://blog.engora.com/2020/10/fundamentally-wrong-using-economic-data.html
+
+
 ## How it works
 
 It aggregates polls using a rolling 7-day window, arranging the polls by candidate spread and choosing the median poll. The prior election result is used to 'seed' the analysis in all cases. Where no polls exist, the prior election result is used. From the polling (or election) data, Silkworm calculates a daily candidate win probability.
