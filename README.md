@@ -12,7 +12,12 @@ You can see a video of my PyData Boston presentation on Silkworm here: https://w
 
 I've blogged a lot on forecasting US Presidential elections. Here are some of my blog posts:
 * [Fundamentally wrong? Using economic data as an election predictor](https://blog.engora.com/2020/10/fundamentally-wrong-using-economic-data.html)
-
+* [Can you believe the polls?](https://blog.engora.com/2020/09/can-you-believe-polls.html)
+* [President Hilary Clinton: what the polls got wrong in 2016 and why they got it wrong](https://blog.engora.com/2020/08/president-hilary-clinton-what-polls-got.html)
+* [Poll-axed: disastrously wrong opinion polls](https://blog.engora.com/2020/08/poll-axed-disastrously-wrong-opinion.html)
+* [Who will win the election? Election victory probabilities from opinion polls](https://blog.engora.com/2020/08/who-will-win-election-election-victory.html)
+* [The dirty little secrets of opinion polling](https://blog.engora.com/2020/08/the-dirty-little-secrets-of-opinion.html)
+* [The Electoral College for beginners](https://blog.engora.com/2020/07/the-electoral-college-for-beginners.html)
 
 ## How it works
 
