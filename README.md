@@ -6,6 +6,8 @@ Silkworm forecasts who will win the US presidential election using two sets of i
 * State polls
 * Previous election results 
 
+In 2020, my model correctly forecast 48 out of 51 states (including DC). The two that the model called wrongly are Florida and North Carolina, both of which were fairly big misses. Overall, opinion polls took a beating in 2020, and the discussion about what went wrong has already begun (see for example https://www.pewresearch.org/fact-tank/2020/11/13/understanding-how-2020s-election-polls-performed-and-what-it-might-mean-for-other-kinds-of-survey-work/). Until the accuracy of opinion polling improves, the kind of pool aggregation work I'm doing with Silkworm should probably sit on hold.
+
 <img src="https://github.com/MikeWoodward/Silkworm/blob/master/documentation/Geography.png"/> 
 
 You can see a video of my PyData Boston presentation on Silkworm here: https://www.youtube.com/watch?v=5Pnr0wbuUzM&t=23s
