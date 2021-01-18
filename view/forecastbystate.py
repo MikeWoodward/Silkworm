@@ -152,7 +152,6 @@ class ForecastByState():
         # ---------------
         self.statetime.legend.click_policy = "hide"
         self.statetime.y_range.only_visible = True
-
         # Select state
         # ============
         self.selectstate = Select(

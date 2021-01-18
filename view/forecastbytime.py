@@ -23,7 +23,7 @@ __license__ = "MIT"
 # -----------------------------------------------------------------------------
 from bokeh.models.widgets import (Panel)
 from bokeh.plotting import figure
-from bokeh.models import ColumnDataSource, Legend, Span
+from bokeh.models import ColumnDataSource, HoverTool, Legend, Span
 from bokeh.layouts import column, Spacer
 
 import pandas as pd
@@ -46,12 +46,11 @@ class ForecastByTime():
 
         # Shows the forecast for electoral college votes over time.
         self.electoralcollegevotesbytime = figure(
-            title="""Electoral college votes by time""",
+            title="""Electoral college votes by date""",
             x_axis_type="""datetime""",
             x_axis_label="""Date""",
             y_axis_label="""Electoral college votes""",
             sizing_mode="""stretch_both""")
-
         # Create dummy data for the plot
         _df = pd.DataFrame({'Date': ['2030-12-31', '2031-12-31'],
                             'Democratic maximum': [300, 238],
@@ -81,6 +80,19 @@ class ForecastByTime():
         self.electoralcollegevotesbytime.add_layout(_legend, 'right')
         self.electoralcollegevotesbytime.legend.click_policy = "hide"
         self.electoralcollegevotesbytime.y_range.only_visible = True
+
+        # Hover tip
+        # ---------
+        # Now set up the hover tool
+        hover = HoverTool(point_policy="follow_mouse",
+                          renderers=[_dg, _rg],
+                          tooltips=[("Date", '@Date{%F}'),
+                                    ("Democratic",
+                                     "@{Democratic maximum}"),
+                                    ("Republican",
+                                     "@{Republican maximum}")],
+                          formatters={'@Date': 'datetime'})
+        self.electoralcollegevotesbytime.add_tools(hover)
 
         # Layout the widgets
         self.layout = column(children=[self.electoralcollegevotesbytime,

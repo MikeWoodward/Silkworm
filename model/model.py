@@ -87,7 +87,7 @@ class Model():
     # %%
     @reset_error
     def read_rawdata(self):
-        """Read in the raw data necessary to make a forecast."""
+        """Read in the raw data necessary to make a forecast."""        
         # State names
         # ===========
         names = pd.read_csv(os.path.join(self.model_folder,
@@ -134,11 +134,14 @@ class Model():
 
         # Polls
         # =====
+        # Using low memory because of warning - file is small enough
+        # this this is OK
         self.polls = pd.read_csv(os.path.join(self.model_folder,
                                               RAWDATA,
                                               'Polls_2020.csv'),
                                  parse_dates=['start_date',
-                                              'end_date'])
+                                              'end_date'],
+                                 low_memory=False)
 
         # Renaming and tidying up data
         # ----------------------------
@@ -204,23 +207,125 @@ class Model():
         # polls report three variants - remove higher and lower variants
         self.polls = self.polls[
             ~(
-                (self.polls['poll_id'].isin([67821, 67101, 67920, 69464])) &
+                (self.polls['poll_id'].isin([67821, 67101, 67920, 
+                                             69464])) &
                 (self.polls['notes'].isin(['lower likely turnout',
                                            'higher likely turnout']))
               )]
-
+        self.polls = self.polls[
+            ~(
+                (self.polls['poll_id'].isin([70599])) &
+                (self.polls['notes'].isin(['low likely turnout',
+                                           'high likely turnout']))
+              )]
+        self.polls = self.polls[
+            ~(
+                (self.polls['poll_id'].isin([70780])) &
+                (self.polls['notes'].isin(['low likely turnout',
+                                           'high likely turnout']))
+              )]
+        self.polls = self.polls[
+            ~(
+                (self.polls['poll_id'].isin([71090])) &
+                (self.polls['notes'].isin(['low turnout model',
+                                           'high turnout model']))
+              )]
+        self.polls = self.polls[
+            ~(
+                (self.polls['poll_id'].isin([71548])) &
+                (self.polls['notes'].isin(['lower turnout model',
+                                           'higher turnout model']))
+              )]
+        self.polls = self.polls[
+            ~(
+                (self.polls['poll_id'].isin([72146])) &
+                (self.polls['notes'].isin(['lower turnout model',
+                                           'higher turnout model']))
+              )]
+        self.polls = self.polls[
+            ~(
+                (self.polls['poll_id'].isin([72214])) &
+                (self.polls['notes'].isin(['higher turnout model',
+                                           'lower turnout model']))
+              )]
+        self.polls = self.polls[
+            ~(
+                (self.polls['poll_id'].isin([72599])) &
+                (self.polls['notes'].isin(['high likely turnout',
+                                           'low likley turnout']))
+              )]
+        # Arizona poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 70079) &
+                                  (self.polls['question_id'] == 130554))]
         # Arizona poll where second question is a head-to-head Trump vs. Biden
         self.polls = self.polls[~((self.polls['poll_id'] == 67934) &
                                   (self.polls['question_id'] == 127187))]
+        # Arizona poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71007) &
+                                  (self.polls['question_id'] == 132884))]
+        # Arizona poll where second question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71067) &
+                                  (self.polls['question_id'] == 133042))]
+        # Arizona polls - removing higher and lower voter turnout
+        self.polls = self.polls[~((self.polls['poll_id'] == 69513) &
+                                  (self.polls['question_id'] == 129488))]
+        self.polls = self.polls[~((self.polls['poll_id'] == 69513) &
+                                  (self.polls['question_id'] == 129489))]
+        # Arizona poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71621) &
+                                  (self.polls['question_id'] == 134170))]
+        # Arizona poll where second question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71753) &
+                                  (self.polls['question_id'] == 134445))]
+        # Arizona poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 72166) &
+                                  (self.polls['question_id'] == 135353))]
+        # Arizona poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 72653) &
+                                  (self.polls['question_id'] == 136341))]
         # Colorado poll where second question is a head-to-head Trump vs. Biden
         self.polls = self.polls[~((self.polls['poll_id'] == 69433) &
                                   (self.polls['question_id'] == 129320))]
         # Florida poll where second question is a head-to-head Trump vs. Biden
         self.polls = self.polls[~((self.polls['poll_id'] == 66308) &
                                   (self.polls['question_id'] == 123433))]
+        # Florida poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71006) &
+                                  (self.polls['question_id'] == 132883))]
+        # Florida poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71620) &
+                                  (self.polls['question_id'] == 134168))]
+        # Florida poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 72167) &
+                                  (self.polls['question_id'] == 135354))]
+        # Florida poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 72658) &
+                                  (self.polls['question_id'] == 136351))]
+        # Georgia poll where second question lower/higher
+        self.polls = self.polls[~((self.polls['poll_id'] == 69690) &
+                                  (self.polls['question_id'] == 129931))]
+        self.polls = self.polls[~((self.polls['poll_id'] == 69690) &
+                                  (self.polls['question_id'] == 129932))]
+        # Georgia poll where second question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 69937) &
+                                  (self.polls['question_id'] == 130229))]
         # Iowa poll where second question is a head-to-head Trump vs. Biden
         self.polls = self.polls[~((self.polls['poll_id'] == 67935) &
                                   (self.polls['question_id'] == 127189))]
+        # Iowa poll Monmouth poll
+        self.polls = self.polls[~((self.polls['poll_id'] == 69943) &
+                                  (self.polls['question_id'] == 130247))]
+        self.polls = self.polls[~((self.polls['poll_id'] == 70080) &
+                                  (self.polls['question_id'] == 130555))]
+        # Iowa poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 70080) &
+                                  (self.polls['question_id'] == 130554))]
+        # Kansas poll where second question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 69938) &
+                                  (self.polls['question_id'] == 130231))]
+        # Kentucky poll where second question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 69939) &
+                                  (self.polls['question_id'] == 130233))]
         # Maine polls represent a challenge, for now, we'll just remove
         # Congressional District polls
         self.polls = self.polls[~self.polls['State name'].isin(
@@ -228,6 +333,12 @@ class Model():
         # Maine poll where second question is a head-to-head Trump vs. Biden
         self.polls = self.polls[~((self.polls['poll_id'] == 67936) &
                                   (self.polls['question_id'] == 127191))]
+        # Maine poll where second question is a RCV Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 69587) &
+                                  (self.polls['question_id'] == 129679))]
+        # Maine poll where second question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 70081) &
+                                  (self.polls['question_id'] == 130559))]
         # Michigan poll where question 123714 seems to exclude 3rd parties
         self.polls = self.polls[~((self.polls['poll_id'] == 66406) &
                                   (self.polls['question_id'] == 123714))]
@@ -237,6 +348,21 @@ class Model():
         # Michigan poll - 2nd option not clear
         self.polls = self.polls[~((self.polls['poll_id'] == 58192) &
                                   (self.polls['question_id'] == 94749))]
+        # Michigan poll where second question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 69940) &
+                                  (self.polls['question_id'] == 130235))]
+        # Michigan poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 70785) &
+                                  (self.polls['question_id'] == 132430))]
+        # Michigan poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71462) &
+                                  (self.polls['question_id'] == 133844))]
+        # Michigan poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 72058) &
+                                  (self.polls['question_id'] == 135091))]
+        # Michigan poll where first question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 72508) &
+                                  (self.polls['question_id'] == 136071))]
         # Nebraska polls represent a challenge, for now, we'll just remove
         # Congressional District polls
         self.polls = self.polls[~self.polls['State name'].isin(
@@ -246,6 +372,10 @@ class Model():
             ~((self.polls['poll_id'] == 62978) &
               (self.polls['notes'] ==
                'split sample without undecided option'))]
+        # New Hampshire poll where second question is a head-to-head
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 70045) &
+                                  (self.polls['question_id'] == 130469))] 
         # North Carolina poll where second question is a head-to-head
         # Trump vs. Biden
         self.polls = self.polls[~((self.polls['poll_id'] == 67937) &
@@ -254,14 +384,72 @@ class Model():
         # Trump vs. Biden
         self.polls = self.polls[~((self.polls['poll_id'] == 68464) &
                                   (self.polls['question_id'] == 128157))]
+        # North Carolina poll where second question is a head-to-head
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 69504) &
+                                  (self.polls['question_id'] == 129476))]        
+        # North Carolina poll where second question is a head-to-head
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 70044) &
+                                  (self.polls['question_id'] == 130467))] 
+        # North Carolina poll where first question is a head-to-head 
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 70786) &
+                                  (self.polls['question_id'] == 132431))]
+        # North Carolina poll where second question is a head-to-head
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71441) &
+                                  (self.polls['question_id'] == 130467))]
+        # North Carolina poll where first question is a head-to-head
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71463) &
+                                  (self.polls['question_id'] == 133846))]
+        # North Carolina poll where second question is a head-to-head
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 72059) &
+                                  (self.polls['question_id'] == 135092))]
+        # North Carolina poll where first question is a head-to-head
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 72659) &
+                                  (self.polls['question_id'] == 136352))]
         # Pennsylvania poll where second question is a head-to-head
         # Trump vs. Biden
         self.polls = self.polls[~((self.polls['poll_id'] == 68264) &
                                   (self.polls['question_id'] == 127878))]
         # Pennsylvania poll where second question is a head-to-head
         # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71441) &
+                                  (self.polls['question_id'] == 133794))]
+        self.polls = self.polls[~((self.polls['poll_id'] == 71441) &
+                                  (self.polls['question_id'] == 133793))]
+        # Pennsylvania poll where second question is a head-to-head
+        # Trump vs. Biden
         self.polls = self.polls[~((self.polls['poll_id'] == 68319) &
                                   (self.polls['question_id'] == 127966))]
+        # Pennsylvania poll where 2nd question is a head-to-head 
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 70741) &
+                                  (self.polls['question_id'] == 132339))]
+        # Pennsylvania poll where 1st question is a head-to-head 
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71379) &
+                                  (self.polls['question_id'] == 133664))]
+        # Pennsylvania poll where 1st question is a head-to-head 
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71976) &
+                                  (self.polls['question_id'] == 134925))]
+        # Pennsylvania poll where 1st question is a head-to-head 
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 72507) &
+                                  (self.polls['question_id'] == 136069))]
+        # South Carolina poll where second question is a head-to-head
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 70082) &
+                                  (self.polls['question_id'] == 130561))]
+        # Texas poll where second question is a head-to-head
+        # Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 70046) &
+                                  (self.polls['question_id'] == 130471))]    
         # # Utah poll - use UCEP educational model for now
         self.polls = self.polls[
             ~((self.polls['poll_id'] == 66525)
@@ -273,6 +461,19 @@ class Model():
         # Wisconsin poll - 2nd option not clear
         self.polls = self.polls[~((self.polls['poll_id'] == 57697) &
                                   (self.polls['question_id'] == 93617))]
+        # Wisconsin poll where 2nd question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 70740) &
+                                  (self.polls['question_id'] == 132338))]
+        # Wisconsin poll where 1st question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71380) &
+                                  (self.polls['question_id'] == 133665))]
+        # Wisconsin poll where 2nd question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 71975) &
+                                  (self.polls['question_id'] == 134924))]
+        # Wisconsin poll where 1st question is a head-to-head Trump vs. Biden
+        self.polls = self.polls[~((self.polls['poll_id'] == 72505) &
+                                  (self.polls['question_id'] == 136066))]
+
 
         # Filtering - population type
         # ---------------------------
@@ -610,20 +811,20 @@ if __name__ == "__main__":
     print("read_rawdata")
     model.read_rawdata()
     print("Error status: {0}".format(model.error_status))
-    print("Error string: {0}".format(model.error_message))
+    print("Error message: {0}".format(model.error_message))
     print('*******')
 
     print('get years')
     print(model.get_years())
     print("Error status: {0}".format(model.error_status))
-    print("Error string: {0}".format(model.error_message))
+    print("Error message: {0}".format(model.error_message))
     print("*******")
 
     print("cross_check results")
     print(model.cross_check())
     print('Errors:')
     print("Error status: {0}".format(model.error_status))
-    print("Error string: {0}".format(model.error_message))
+    print("Error message: {0}".format(model.error_message))
     print("*******")
 
     # print("Fetch 538 data")
