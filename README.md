@@ -1,4 +1,4 @@
-# Silkworm - US presidential election result predictor
+# US presidential election result predictor
 
 ## Introduction
 
